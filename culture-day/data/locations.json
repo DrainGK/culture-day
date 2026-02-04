@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pantheon",
+    "name": "The Pantheon",
+    "location": "Paris, France",
+    "region": "Ile-de-France",
+    "coordinates": { "lat": 48.846, "lng": 2.346 },
+    "description": "Final resting place of Voltaire, Rousseau, Hugo, Zola, and Marie Curie.",
+    "image": "/images/pantheon.jpg"
+  },
+  {
+    "id": "cafe-flore",
+    "name": "Cafe de Flore",
+    "location": "Saint-Germain-des-Pres, Paris",
+    "region": "Ile-de-France",
+    "coordinates": { "lat": 48.854, "lng": 2.333 },
+    "description": "The legendary cafe where Sartre and Beauvoir wrote and debated existentialism.",
+    "image": "/images/cafe-flore.jpg"
+  },
+  {
+    "id": "sorbonne",
+    "name": "La Sorbonne",
+    "location": "Paris, France",
+    "region": "Ile-de-France",
+    "coordinates": { "lat": 48.849, "lng": 2.344 },
+    "description": "Historic university founded in 1257, center of French intellectual life.",
+    "image": "/images/sorbonne.jpg"
+  },
+  {
+    "id": "montaigne-tower",
+    "name": "Montaigne's Tower",
+    "location": "Saint-Michel-de-Montaigne, Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "coordinates": { "lat": 44.859, "lng": 0.036 },
+    "description": "The circular library where Montaigne wrote his famous Essays.",
+    "image": "/images/montaigne-tower.jpg"
+  },
+  {
+    "id": "pere-lachaise",
+    "name": "Pere Lachaise Cemetery",
+    "location": "Paris, France",
+    "region": "Ile-de-France",
+    "coordinates": { "lat": 48.861, "lng": 2.393 },
+    "description": "Final resting place of many philosophers, writers, and artists.",
+    "image": "/images/pere-lachaise.jpg"
+  },
+  {
+    "id": "versailles",
+    "name": "Palace of Versailles",
+    "location": "Versailles, France",
+    "region": "Ile-de-France",
+    "coordinates": { "lat": 48.805, "lng": 2.120 },
+    "description": "Symbol of absolute monarchy that sparked Enlightenment critiques.",
+    "image": "/images/versailles.jpg"
+  },
+  {
+    "id": "college-de-france",
+    "name": "College de France",
+    "location": "Paris, France",
+    "region": "Ile-de-France",
+    "coordinates": { "lat": 48.850, "lng": 2.345 },
+    "description": "Prestigious institution where Foucault and Bergson lectured, founded by Francis I in 1530.",
+    "image": "/images/college-de-france.jpg"
+  },
+  {
+    "id": "les-deux-magots",
+    "name": "Les Deux Magots",
+    "location": "Saint-Germain-des-Pres, Paris",
+    "region": "Ile-de-France",
+    "coordinates": { "lat": 48.854, "lng": 2.333 },
+    "description": "Historic cafe frequented by intellectuals including Sartre, Hemingway, and Picasso.",
+    "image": "/images/les-deux-magots.jpg"
+  },
+  {
+    "id": "ferney-voltaire",
+    "name": "Chateau de Ferney",
+    "location": "Ferney-Voltaire, Ain",
+    "region": "Auvergne-Rhone-Alpes",
+    "coordinates": { "lat": 46.259, "lng": 6.108 },
+    "description": "Voltaire's home for the last 20 years of his life where he wrote and received visitors from across Europe.",
+    "image": "/images/ferney-voltaire.webp"
+  },
+  {
+    "id": "lyon-institut",
+    "name": "Institut Lumiere",
+    "location": "Lyon, France",
+    "region": "Auvergne-Rhone-Alpes",
+    "coordinates": { "lat": 45.745, "lng": 4.870 },
+    "description": "Museum in the Lumiere brothers' family home, birthplace of cinema.",
+    "image": "/images/lyon-institut.webp"
+  }
+]

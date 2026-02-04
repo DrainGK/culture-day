@@ -1,0 +1,129 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+/* Cutalism Design - French Philosophers Culture Day */
+/* Color Palette: #8785A2, #F6F6F6, #FFE2E2, #FFC7C7 */
+
+:root {
+  --background: #F6F6F6;
+  --foreground: #2D2A3E;
+  --card: #FFFFFF;
+  --card-foreground: #2D2A3E;
+  --popover: #FFFFFF;
+  --popover-foreground: #2D2A3E;
+  --primary: #8785A2;
+  --primary-foreground: #FFFFFF;
+  --secondary: #FFE2E2;
+  --secondary-foreground: #2D2A3E;
+  --muted: #F6F6F6;
+  --muted-foreground: #6B6880;
+  --accent: #FFC7C7;
+  --accent-foreground: #2D2A3E;
+  --destructive: #E57373;
+  --destructive-foreground: #FFFFFF;
+  --border: #E0DFE8;
+  --input: #E0DFE8;
+  --ring: #8785A2;
+  --chart-1: #8785A2;
+  --chart-2: #FFC7C7;
+  --chart-3: #FFE2E2;
+  --chart-4: #A5A3BA;
+  --chart-5: #FFB4B4;
+  --radius: 1rem;
+  --sidebar: #FFFFFF;
+  --sidebar-foreground: #2D2A3E;
+  --sidebar-primary: #8785A2;
+  --sidebar-primary-foreground: #FFFFFF;
+  --sidebar-accent: #FFE2E2;
+  --sidebar-accent-foreground: #2D2A3E;
+  --sidebar-border: #E0DFE8;
+  --sidebar-ring: #8785A2;
+}
+
+.dark {
+  --background: #1A1825;
+  --foreground: #F6F6F6;
+  --card: #252336;
+  --card-foreground: #F6F6F6;
+  --popover: #252336;
+  --popover-foreground: #F6F6F6;
+  --primary: #A5A3C2;
+  --primary-foreground: #1A1825;
+  --secondary: #3D3654;
+  --secondary-foreground: #F6F6F6;
+  --muted: #2D2A3E;
+  --muted-foreground: #9B98AE;
+  --accent: #FFC7C7;
+  --accent-foreground: #1A1825;
+  --destructive: #E57373;
+  --destructive-foreground: #FFFFFF;
+  --border: #3D3654;
+  --input: #3D3654;
+  --ring: #A5A3C2;
+  --chart-1: #A5A3C2;
+  --chart-2: #FFC7C7;
+  --chart-3: #FFE2E2;
+  --chart-4: #8785A2;
+  --chart-5: #FFB4B4;
+  --sidebar: #252336;
+  --sidebar-foreground: #F6F6F6;
+  --sidebar-primary: #A5A3C2;
+  --sidebar-primary-foreground: #1A1825;
+  --sidebar-accent: #3D3654;
+  --sidebar-accent-foreground: #F6F6F6;
+  --sidebar-border: #3D3654;
+  --sidebar-ring: #A5A3C2;
+}
+
+@theme inline {
+  --font-sans: 'Source Sans 3', 'Source Sans 3 Fallback', sans-serif;
+  --font-heading: 'Playfair Display', 'Playfair Display Fallback', serif;
+  --font-mono: 'Geist Mono', 'Geist Mono Fallback';
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

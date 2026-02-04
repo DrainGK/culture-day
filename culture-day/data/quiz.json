@@ -1,0 +1,121 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do you approach uncertainty?",
+      "options": [
+        { "letter": "A", "text": "Trust your inner sense of what feels right" },
+        { "letter": "B", "text": "Feel unsettled, but see it as proof of your freedom" },
+        { "letter": "C", "text": "Accept uncertainty is unavoidable and still move forward" },
+        { "letter": "D", "text": "Question who defined the situation in the first place" },
+        { "letter": "E", "text": "Look at how your choices affect others involved" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What gives life meaning?",
+      "options": [
+        { "letter": "A", "text": "Harmony with your natural self" },
+        { "letter": "B", "text": "Responsibility: your choices define you" },
+        { "letter": "C", "text": "Creating meaning through action without guarantees" },
+        { "letter": "D", "text": "Revealing hidden structures behind what we take for granted" },
+        { "letter": "E", "text": "Becoming oneself while recognizing social constraints" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What best describes freedom to you?",
+      "options": [
+        { "letter": "A", "text": "Living according to one's true nature" },
+        { "letter": "B", "text": "Bearing the weight of one's choices" },
+        { "letter": "C", "text": "Choosing despite uncertainty or absurdity" },
+        { "letter": "D", "text": "Understanding limits imposed by power" },
+        { "letter": "E", "text": "Negotiating freedom within real social conditions" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "When facing injustice, your instinct is to...",
+      "options": [
+        { "letter": "A", "text": "Appeal to shared moral values" },
+        { "letter": "B", "text": "Take responsibility and act, even alone" },
+        { "letter": "C", "text": "Resist, even if the outcome is uncertain" },
+        { "letter": "D", "text": "Expose the systems that produce it" },
+        { "letter": "E", "text": "Ask who is affected differently and why" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which sentence feels closest to your mindset?",
+      "options": [
+        { "letter": "A", "text": "We lose ourselves when we drift away from nature." },
+        { "letter": "B", "text": "I am responsible for what I make of myself." },
+        { "letter": "C", "text": "The world may be absurd, but I still choose to act." },
+        { "letter": "D", "text": "What we call truth is shaped by power." },
+        { "letter": "E", "text": "Freedom must be understood within real conditions." }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What do you trust most when searching for truth?",
+      "options": [
+        { "letter": "A", "text": "Moral intuition / sentiment" },
+        { "letter": "B", "text": "Personal commitment and honesty in choice" },
+        { "letter": "C", "text": "Clear-sightedness, even if there's no final answer" },
+        { "letter": "D", "text": "Critique: who benefits from this truth?" },
+        { "letter": "E", "text": "Shared inquiry and responsibility to others" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Your relationship to rules is...",
+      "options": [
+        { "letter": "A", "text": "Rules should align with human nature" },
+        { "letter": "B", "text": "Rules don't excuse me: I choose anyway" },
+        { "letter": "C", "text": "Rules are there, but I can resist and act" },
+        { "letter": "D", "text": "Rules are tools of normalization and control" },
+        { "letter": "E", "text": "Rules must be judged by real consequences for people" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What's the biggest danger in modern society?",
+      "options": [
+        { "letter": "A", "text": "Losing authenticity and the natural self" },
+        { "letter": "B", "text": "Hiding behind excuses and bad faith" },
+        { "letter": "C", "text": "Giving up and surrendering to nihilism" },
+        { "letter": "D", "text": "Invisible control: norms, surveillance, truth regimes" },
+        { "letter": "E", "text": "Inequality of lived conditions and constrained freedom" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "When you look at society, you focus first on...",
+      "options": [
+        { "letter": "A", "text": "The moral character of citizens" },
+        { "letter": "B", "text": "The individual as author of their life" },
+        { "letter": "C", "text": "The human ability to stand up again" },
+        { "letter": "D", "text": "Institutions, discourse, and hidden mechanisms" },
+        { "letter": "E", "text": "Social roles, dependence, and who bears the burden" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What's your best life-compass?",
+      "options": [
+        { "letter": "A", "text": "Return to what feels genuinely human" },
+        { "letter": "B", "text": "Choose, commit, assume the consequences" },
+        { "letter": "C", "text": "Stay lucid, keep moving, refuse despair" },
+        { "letter": "D", "text": "Analyze power, resist what shapes you silently" },
+        { "letter": "E", "text": "Act ethically within real constraints, for real people" }
+      ]
+    }
+  ],
+  "axisLabels": {
+    "A": "Nature & Intuition",
+    "B": "Radical Freedom",
+    "C": "Absurd Resistance",
+    "D": "Power Critique",
+    "E": "Social Ethics"
+  }
+}

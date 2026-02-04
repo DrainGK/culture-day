@@ -1,0 +1,230 @@
+[
+  {
+    "id": "arianespace",
+    "name": "Arianespace (Ariane ecosystem)",
+    "category": "Mobility & Aerospace",
+    "description": "European launch services actor tied to the Ariane rocket ecosystem and institutional/commercial missions.",
+    "impact": "Supports Europe’s access-to-space capability and satellite deployment infrastructure.",
+    "image": "/images/ariane.jpg"
+  },
+  {
+    "id": "airbus",
+    "name": "Airbus",
+    "category": "Mobility & Aerospace",
+    "description": "Aircraft manufacturer driving efficiency, aerodynamics, digital manufacturing, and future low-carbon aviation pathways.",
+    "impact": "Shapes global aviation standards through large-scale R&D and industrial deployment.",
+    "image": "/images/airbus.jpg"
+  },
+  {
+    "id": "dassault-systemes",
+    "name": "Dassault Systèmes",
+    "category": "Industry & Digital Engineering",
+    "description": "3D design, simulation, and lifecycle platforms (CATIA, SOLIDWORKS) powering digital engineering and digital twins.",
+    "impact": "Enables faster, less wasteful product development across manufacturing industries.",
+    "image": "/images/dassault.jpg"
+  },
+  {
+    "id": "sanofi",
+    "name": "Sanofi",
+    "category": "Health & Biotech",
+    "description": "Pharmaceutical company active in vaccines and specialty medicines, investing in next-generation therapeutics.",
+    "impact": "Industrial-scale health innovation and production capacity for global public health.",
+    "image": "/images/sanofi.jpg"
+  },
+  {
+    "id": "lvmh",
+    "name": "LVMH",
+    "category": "Consumer & Retail Innovation",
+    "description": "Luxury group investing in sustainable materials, traceability, and digital retail experiences.",
+    "impact": "Influences global consumer standards and supplier ecosystems through scale and brand power.",
+    "image": "/images/lvmh.jpg"
+  },
+  {
+    "id": "totalenergies",
+    "name": "TotalEnergies",
+    "category": "Energy & Climate",
+    "description": "Energy company investing in renewables, power generation, and low-carbon projects alongside legacy operations.",
+    "impact": "Large-scale capital allocation decisions affect the pace and shape of energy transition ecosystems.",
+    "image": "/images/totalenergies.jpg"
+  },
+  {
+    "id": "thales",
+    "name": "Thales",
+    "category": "Defense & Security",
+    "description": "Aerospace, defense, cybersecurity, and transport tech with emphasis on secure, reliable systems.",
+    "impact": "Builds high-trust infrastructure where safety, security, and resilience are critical.",
+    "image": "/images/thales.jpg"
+  },
+  {
+    "id": "criteo",
+    "name": "Criteo",
+    "category": "Platforms & Ecosystems",
+    "description": "Commerce media and advertising tech adapting targeting and measurement to privacy-driven constraints.",
+    "impact": "Represents the shift toward privacy-aware marketing infrastructure and retail media ecosystems.",
+    "image": "/images/criteo.jpg"
+  },
+  {
+    "id": "blablacar",
+    "name": "BlaBlaCar",
+    "category": "Platforms & Ecosystems",
+    "description": "Shared mobility platform connecting drivers and passengers for long-distance travel.",
+    "impact": "Scaled trust-based coordination, increasing vehicle occupancy and improving travel affordability.",
+    "image": "/images/blablacar.jpg"
+  },
+  {
+    "id": "doctolib",
+    "name": "Doctolib",
+    "category": "Health & Biotech",
+    "description": "Healthcare scheduling and digital services platform used by medical professionals and patients across Europe.",
+    "impact": "Reduces friction in access and coordination, a key lever in overloaded healthcare systems.",
+    "image": "/images/doctolib.jpg"
+  },
+  {
+    "id": "mirakl",
+    "name": "Mirakl",
+    "category": "Platforms & Ecosystems",
+    "description": "Marketplace platform enabling retailers and brands to run third-party marketplaces.",
+    "impact": "Accelerates platformization of commerce for large organizations.",
+    "image": "/images/mirakl.jpg"
+  },
+  {
+    "id": "alan",
+    "name": "Alan",
+    "category": "Health & Biotech",
+    "description": "Digital health insurance and benefits platform focused on a simplified user experience and integrated services.",
+    "impact": "Pushes insurers toward clearer UX and more service-oriented health journeys.",
+    "image": "/images/alan.jpg"
+  },
+  {
+    "id": "cea",
+    "name": "CEA",
+    "category": "Research & Frontier Science",
+    "description": "Major research organization spanning energy, digital tech, advanced engineering, and health sciences.",
+    "impact": "A national-scale R&D engine feeding long-term scientific capability and industrial transfer.",
+    "image": "/images/cea.jpg"
+  },
+  {
+    "id": "iter",
+    "name": "ITER (in France)",
+    "category": "Research & Frontier Science",
+    "description": "International fusion research project aiming to demonstrate key elements of practical fusion energy.",
+    "impact": "One of the world’s most ambitious clean-energy science efforts hosted in France.",
+    "image": "/images/iter.jpg"
+  },
+  {
+    "id": "station-f",
+    "name": "Station F",
+    "category": "Platforms & Ecosystems",
+    "description": "Large startup campus in Paris hosting founders, programs, investors, and corporate partners.",
+    "impact": "Creates innovation density: faster company formation and ecosystem cross-pollination.",
+    "image": "/images/station-f.jpg"
+  },
+
+  {
+    "id": "michelin",
+    "name": "Michelin",
+    "category": "Mobility & Aerospace",
+    "description": "Mobility and materials leader investing in sustainable materials, circularity, and next-gen performance products.",
+    "impact": "Drives materials innovation with downstream effects on efficiency, safety, and environmental footprint.",
+    "image": "/images/michelin.jpg"
+  },
+  {
+    "id": "puy-du-fou",
+    "name": "Puy du Fou",
+    "category": "Culture & Experience",
+    "description": "Immersive entertainment model built on live shows, storytelling craft, and operational excellence.",
+    "impact": "A blueprint for narrative-led experience design at industrial scale.",
+    "image": "/images/puydufou.jpg"
+  },
+
+  {
+    "id": "mistral-ai",
+    "name": "Mistral AI",
+    "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
+    "description": "AI lab building open-weight and enterprise-grade models plus tooling for real-world deployment.",
+    "impact": "Strengthens Europe’s AI capability and expands options for controllable, deployable AI stacks.",
+    "image": "/images/mistral.jpg"
+  },
+  {
+    "id": "hugging-face",
+    "name": "Hugging Face",
+    "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
+    "description": "Open-source AI platform and toolchain (models, datasets, libraries, deployment) used globally.",
+    "impact": "Accelerates AI innovation by making powerful tooling accessible, reproducible, and community-driven.",
+    "image": "/images/huggingface.jpg"
+  },
+  {
+    "id": "ledger",
+    "name": "Ledger",
+    "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
+    "description": "Security company building hardware and software to secure digital assets and sensitive keys (self-custody infrastructure).",
+    "impact": "Scaled consumer-grade secure hardware and strengthened ‘trust infrastructure’ for digital ownership.",
+    "image": "/images/ledger.jpg"
+  },
+  {
+    "id": "ovhcloud",
+    "name": "OVHcloud",
+    "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
+    "description": "European cloud provider offering infrastructure with strong emphasis on control, cost, and sovereignty options.",
+    "impact": "Supports regional infrastructure capacity and diversification beyond hyperscaler dependency.",
+    "image": "/images/ovhcloud.jpg"
+  },
+  {
+    "id": "atos-eviden",
+    "name": "Atos / Eviden (HPC & Quantum programs)",
+    "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
+    "description": "Advanced computing actor across supercomputing, large-scale systems, and quantum-related initiatives.",
+    "impact": "Strategic capability for scientific simulation and AI at scale (compute as national/industrial leverage).",
+    "image": "/images/atos-eviden.jpg"
+  },
+
+  {
+    "id": "air-liquide",
+    "name": "Air Liquide (Hydrogen & industrial decarbonization)",
+    "category": "Energy & Climate",
+    "description": "Industrial gases leader developing hydrogen production and infrastructure for industry and mobility.",
+    "impact": "Enables decarbonization pathways in hard-to-abate sectors through scalable industrial projects.",
+    "image": "/images/airliquide.jpg"
+  },
+  {
+    "id": "back-market",
+    "name": "Back Market",
+    "category": "Consumer & Retail Innovation",
+    "description": "Marketplace for refurbished electronics, promoting repairability and longer device lifecycles.",
+    "impact": "Industrializes refurbished consumption and makes circular purchasing feel mainstream.",
+    "image": "/images/backmarket.jpg"
+  },
+  {
+    "id": "exotec",
+    "name": "Exotec",
+    "category": "Industry & Digital Engineering",
+    "description": "Warehouse robotics company providing high-density storage and order-fulfillment automation systems.",
+    "impact": "Raises logistics productivity and resilience as supply chains face labor and volatility constraints.",
+    "image": "/images/exotec.jpg"
+  },
+  {
+    "id": "qonto",
+    "name": "Qonto",
+    "category": "Platforms & Ecosystems",
+    "description": "Business finance platform for SMEs and freelancers (accounts, cards, invoicing, expense workflows, integrations).",
+    "impact": "Reduces admin overhead and improves operational visibility for small organizations.",
+    "image": "/images/qonto.jpg"
+  },
+  {
+    "id": "devialet",
+    "name": "Devialet",
+    "category": "Consumer & Retail Innovation",
+    "description": "Audio engineering and premium hardware company combining acoustics, design, and connected products.",
+    "impact": "Demonstrates global competitiveness in high-end consumer hardware through engineering-led differentiation.",
+    "image": "/images/devialet.jpg"
+  },
+
+  {
+    "id": "vmax-hypersonic",
+    "name": "V-MaX (Hypersonic demonstrator)",
+    "category": "Defense & Security",
+    "description": "French hypersonic glide demonstrator program with defense, industrial, and research partners.",
+    "impact": "Builds sovereign capability in hypersonic systems (guidance, materials, flight regimes) and strategic deterrence tech.",
+    "image": "/images/vmax.jpg"
+  }
+]

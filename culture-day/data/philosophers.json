@@ -1,0 +1,132 @@
+[
+  {
+    "id": "rousseau",
+    "name": "Jean-Jacques Rousseau",
+    "birth": "1712-1778",
+    "work": "The Social Contract, Emile, Discourse on Inequality",
+    "quote": "Man is born free, and everywhere he is in chains.",
+    "fun-desc": "Once abandoned his five children to orphanages while writing about ideal education. Also composed operas and loved botanizing.",
+    "code": "AAAAAAAAAA",
+    "image": "/images/rousseau.jpg"
+  },
+  {
+    "id": "sartre",
+    "name": "Jean-Paul Sartre",
+    "birth": "1905-1980",
+    "work": "Being and Nothingness, Nausea, No Exit",
+    "quote": "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.",
+    "fun-desc": "Declined the Nobel Prize in Literature. Had a famous open relationship with Simone de Beauvoir and loved jazz cafes.",
+    "code": "BBBBBBBBBB",
+    "image": "/images/sartre.jpg"
+  },
+  {
+    "id": "camus",
+    "name": "Albert Camus",
+    "birth": "1913-1960",
+    "work": "The Stranger, The Myth of Sisyphus, The Plague",
+    "quote": "One must imagine Sisyphus happy.",
+    "fun-desc": "Was a goalkeeper for a local football team in Algeria. Won the Nobel Prize at 44, then died in a car crash carrying an unused train ticket.",
+    "code": "CCCCCCCCCC",
+    "image": "/images/camus.jpeg"
+  },
+  {
+    "id": "foucault",
+    "name": "Michel Foucault",
+    "birth": "1926-1984",
+    "work": "Discipline and Punish, The History of Sexuality, Madness and Civilization",
+    "quote": "Where there is power, there is resistance.",
+    "fun-desc": "Shaved his head to stand out in crowds. Was known for his theatrical lectures and loved California's counterculture scene.",
+    "code": "DDDDDDDDDD",
+    "image": "/images/foucault.webp"
+  },
+  {
+    "id": "beauvoir",
+    "name": "Simone de Beauvoir",
+    "birth": "1908-1986",
+    "work": "The Second Sex, The Ethics of Ambiguity, Memoirs of a Dutiful Daughter",
+    "quote": "One is not born, but rather becomes, a woman.",
+    "fun-desc": "Traveled the world with Sartre but always kept her own apartment. Was buried with Sartre's letters and her lover's ring.",
+    "code": "EEEEEEEEEE",
+    "image": "/images/beauvoir.jpeg"
+  },
+  {
+    "id": "descartes",
+    "name": "Rene Descartes",
+    "birth": "1596-1650",
+    "work": "Meditations on First Philosophy, Discourse on the Method",
+    "quote": "I think, therefore I am.",
+    "fun-desc": "Invented the Cartesian coordinate system while lying in bed watching a fly. Died of pneumonia after tutoring Queen Christina of Sweden at 5 AM.",
+    "code": "DABDBDBDBD",
+    "image": "/images/descartes.jpg"
+  },
+  {
+    "id": "montaigne",
+    "name": "Michel de Montaigne",
+    "birth": "1533-1592",
+    "work": "Essays",
+    "quote": "Que sais-je? (What do I know?)",
+    "fun-desc": "Invented the essay as a literary form. Had his famous quotes inscribed on the ceiling beams of his tower library.",
+    "code": "AEAEAAEAEA",
+    "image": "/images/montaigne.jpg"
+  },
+  {
+    "id": "laboetie",
+    "name": "Etienne de La Boetie",
+    "birth": "1530-1563",
+    "work": "Discourse on Voluntary Servitude",
+    "quote": "Resolve to serve no more, and you are at once freed.",
+    "fun-desc": "Wrote his masterpiece on tyranny at just 18 years old. His friendship with Montaigne became legendary in philosophical circles.",
+    "code": "DDBDDDDCDD",
+    "image": "/images/laboetie.jpg"
+  },
+  {
+    "id": "tocqueville",
+    "name": "Alexis de Tocqueville",
+    "birth": "1805-1859",
+    "work": "Democracy in America, The Old Regime and the Revolution",
+    "quote": "The greatness of America lies not in being more enlightened than any other nation, but rather in her ability to repair her faults.",
+    "fun-desc": "Traveled across America for 9 months at age 25 and wrote the most influential book about American democracy.",
+    "code": "EEEDEDEEDE",
+    "image": "/images/tocqueville.jpg"
+  },
+  {
+    "id": "baudelaire",
+    "name": "Charles Baudelaire",
+    "birth": "1821-1867",
+    "work": "Les Fleurs du mal, The Painter of Modern Life",
+    "quote": "The greatest trick the Devil ever pulled was convincing the world he did not exist.",
+    "fun-desc": "Dyed his hair green once to shock the bourgeoisie. His poetry collection was prosecuted for obscenity.",
+    "code": "CACACAACDC",
+    "image": "/images/baudelaire.jpg"
+  },
+  {
+    "id": "comte",
+    "name": "Auguste Comte",
+    "birth": "1798-1857",
+    "work": "Course of Positive Philosophy, A General View of Positivism",
+    "quote": "The dead govern the living.",
+    "fun-desc": "Founded sociology and positivism. Created a secular 'Religion of Humanity' with its own calendar of secular saints.",
+    "code": "DEDEDDEEDE",
+    "image": "/images/comte.jpg"
+  },
+  {
+    "id": "comte-sponville",
+    "name": "Andre Comte-Sponville",
+    "birth": "1952-present",
+    "work": "A Small Treatise on the Great Virtues, The Little Book of Atheist Spirituality",
+    "quote": "The wise man has no need of hope. He acts.",
+    "fun-desc": "One of France's most popular living philosophers. Known for making philosophy accessible to everyone through bestselling books.",
+    "code": "AEAAAAEAEA",
+    "image": "/images/comte-sponville.jpg"
+  },
+  {
+    "id": "herbrand",
+    "name": "Jacques Herbrand",
+    "birth": "1908-1931",
+    "work": "Herbrand's Theorem, Contributions to Mathematical Logic",
+    "quote": "Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.",
+    "fun-desc": "Made groundbreaking contributions to mathematical logic before dying in a mountaineering accident at just 23 years old.",
+    "code": "DDBDBDDDBA",
+    "image": "/images/herbrand.jpg"
+  }
+]

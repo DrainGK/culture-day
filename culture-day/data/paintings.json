@@ -1,0 +1,50 @@
+[
+  {
+    "id": "liberty",
+    "name": "Liberty Leading the People",
+    "artist": "Eugene Delacroix",
+    "year": "1830",
+    "description": "Commemorates the July Revolution of 1830, showing the spirit of French liberty.",
+    "image": "/images/liberty.jpg"
+  },
+  {
+    "id": "death-marat",
+    "name": "The Death of Marat",
+    "artist": "Jacques-Louis David",
+    "year": "1793",
+    "description": "A martyr portrait of the French revolutionary Jean-Paul Marat.",
+    "image": "/images/death-marat.webp"
+  },
+  {
+    "id": "oath-horatii",
+    "name": "Oath of the Horatii",
+    "artist": "Jacques-Louis David",
+    "year": "1784",
+    "description": "A neoclassical masterpiece depicting Roman virtue and sacrifice.",
+    "image": "/images/oath-horatii.jpg"
+  },
+  {
+    "id": "grande-odalisque",
+    "name": "La Grande Odalisque",
+    "artist": "Jean Auguste Dominique Ingres",
+    "year": "1814",
+    "description": "An orientalist fantasy that challenged classical proportions.",
+    "image": "/images/grande-odalisque.jpg"
+  },
+  {
+    "id": "raft-medusa",
+    "name": "The Raft of the Medusa",
+    "artist": "Theodore Gericault",
+    "year": "1819",
+    "description": "A powerful critique of French politics through a shipwreck disaster.",
+    "image": "/images/raft-medusa.jpg"
+  },
+  {
+    "id": "starry-night-rhone",
+    "name": "Starry Night Over the Rhone",
+    "artist": "Vincent van Gogh",
+    "year": "1888",
+    "description": "Painted in Arles, France, capturing the night sky over the Rhone river.",
+    "image": "/images/starry-night-rhone.jpg"
+  }
+]
