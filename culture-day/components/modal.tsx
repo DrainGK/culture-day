@@ -206,14 +206,21 @@ interface InnovationModalContentProps {
   innovation: {
     id: string
     name: string
-    date: string
-    innovator: string
+    date?: string
+    innovator?: string
     description: string
-    context: string
-    consequences: string
-    anecdote: string
     image: string
-  }
+
+    // optional enrichments
+    context?: string
+    consequences?: string
+    anecdote?: string
+
+    // other fields your data may have
+    category?: string
+    century?: string
+    // milestones?: string[] // or whatever it is
+}
 }
 
 export function InnovationModalContent({ innovation }: InnovationModalContentProps) {

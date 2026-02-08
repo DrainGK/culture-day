@@ -39,7 +39,7 @@ function LeadersContent() {
           </p>
         </div>
 
-        <Gallery items={galleryItems} onSelect={handleSelect} />
+        <Gallery items={galleryItems} type="philosopher" onSelect={handleSelect} />
 
         <Modal isOpen={!!selectedLeader} onClose={handleClose}>
           {selectedLeader && (

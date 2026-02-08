@@ -41,7 +41,7 @@ function ScienceContent() {
           </p>
         </div>
 
-        <Gallery items={galleryItems} onSelect={handleSelect} />
+        <Gallery items={galleryItems} type="painting" onSelect={handleSelect} />
 
         <Modal isOpen={!!selectedInnovation} onClose={handleClose}>
           {selectedInnovation && (

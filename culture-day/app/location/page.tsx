@@ -119,7 +119,7 @@ function LocationContent() {
                       )
                     })}
                   </div>
-          <Gallery items={galleryItems} onSelect={handleSelect} />
+          <Gallery items={galleryItems} type="location" onSelect={handleSelect} />
           </>
         )}
 

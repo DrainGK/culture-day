@@ -14,6 +14,7 @@ interface GalleryItem {
 interface GalleryProps<T extends GalleryItem> {
   items: T[]
   type: "philosopher" | "painting" | "location"
+  onSelect?: (id: string) => void
 }
 
 export function Gallery<T extends GalleryItem>({ items, type }: GalleryProps<T>) {

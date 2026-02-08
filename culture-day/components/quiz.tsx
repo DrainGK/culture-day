@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "motion/react"
 import { ArrowLeft, ArrowRight, RotateCcw } from "lucide-react"
 import { RadarChart } from "./radar-chart"
 import quizData from "@/data/quiz.json"
-import philosophersData from "@/data/philosophers.json"
+import philosophersJson from "@/data/philosophers.json"
 import { cn } from "@/lib/utils"
 
 type AnswerKey = "A" | "B" | "C" | "D" | "E"
@@ -21,6 +21,20 @@ interface Philosopher {
   image: string
 }
 
+// ✅ Works if philosophers.json is either:
+// - [ { ... }, { ... } ]
+// - { philosophers: [ { ... }, ... ] }
+function normalizePhilosophers(input: unknown): Philosopher[] {
+  if (Array.isArray(input)) return input as Philosopher[]
+  if (input && typeof input === "object") {
+    const maybe = (input as { philosophers?: unknown }).philosophers
+    if (Array.isArray(maybe)) return maybe as Philosopher[]
+  }
+  return []
+}
+
+const philosophers: Philosopher[] = normalizePhilosophers(philosophersJson)
+
 export function Quiz() {
   const [currentQuestion, setCurrentQuestion] = useState(0)
   const [answers, setAnswers] = useState<(AnswerKey | null)[]>(
@@ -30,56 +44,55 @@ export function Quiz() {
 
   const scores = useMemo(() => {
     const counts: Record<AnswerKey, number> = { A: 0, B: 0, C: 0, D: 0, E: 0 }
-    answers.forEach((answer) => {
-      if (answer) counts[answer]++
-    })
+    for (const a of answers) {
+      if (a) counts[a]++
+    }
     return counts
   }, [answers])
 
-  const matchedPhilosopher = useMemo(() => {
+  // ✅ Explicit return type avoids "never"
+  const matchedPhilosopher = useMemo<Philosopher | null>(() => {
     if (!showResults) return null
 
-    const userCode = answers.join("")
+    const userCode = answers.map((a) => a ?? "").join("")
     let bestMatch: Philosopher | null = null
     let bestScore = -1
 
-    philosophersData.forEach((philosopher) => {
+    for (const p of philosophers) {
+      const philCode = (p.code ?? "").toUpperCase()
       let matchScore = 0
-      const philCode = philosopher.code.toUpperCase()
 
       for (let i = 0; i < Math.min(userCode.length, philCode.length); i++) {
-        if (userCode[i] === philCode[i]) {
-          matchScore++
-        }
+        if (userCode[i] === philCode[i]) matchScore++
       }
 
       if (matchScore > bestScore) {
         bestScore = matchScore
-        bestMatch = philosopher as Philosopher
+        bestMatch = p
       }
-    })
+    }
 
     return bestMatch
   }, [answers, showResults])
 
   const handleAnswer = (letter: AnswerKey) => {
-    const newAnswers = [...answers]
-    newAnswers[currentQuestion] = letter
-    setAnswers(newAnswers)
+    setAnswers((prev) => {
+      const next = [...prev]
+      next[currentQuestion] = letter
+      return next
+    })
   }
 
   const handleNext = () => {
     if (currentQuestion < quizData.questions.length - 1) {
-      setCurrentQuestion(currentQuestion + 1)
-    } else if (answers.every((a) => a !== null)) {
-      setShowResults(true)
+      setCurrentQuestion((q) => q + 1)
+      return
     }
+    if (answers.every((a) => a !== null)) setShowResults(true)
   }
 
   const handlePrev = () => {
-    if (currentQuestion > 0) {
-      setCurrentQuestion(currentQuestion - 1)
-    }
+    if (currentQuestion > 0) setCurrentQuestion((q) => q - 1)
   }
 
   const handleReset = () => {
@@ -111,16 +124,26 @@ export function Quiz() {
           <div className="bg-card rounded-2xl p-6 shadow-lg border border-border">
             <RadarChart
               scores={scores}
-              labels={quizData.axisLabels as { A: string; B: string; C: string; D: string; E: string }}
+              labels={
+                quizData.axisLabels as {
+                  A: string
+                  B: string
+                  C: string
+                  D: string
+                  E: string
+                }
+              }
             />
           </div>
 
           <div className="bg-card rounded-2xl p-6 shadow-lg border border-border">
             <div className="text-center md:text-left">
               <p className="text-sm text-muted-foreground mb-2">You match with</p>
+
               <h3 className="text-2xl font-heading font-bold text-primary mb-2">
                 {matchedPhilosopher.name}
               </h3>
+
               <p className="text-sm text-muted-foreground mb-4">
                 {matchedPhilosopher.birth}
               </p>
@@ -165,7 +188,9 @@ export function Quiz() {
       {/* Progress Bar */}
       <div className="mb-8">
         <div className="flex justify-between text-sm text-muted-foreground mb-2">
-          <span>Question {currentQuestion + 1} of {quizData.questions.length}</span>
+          <span>
+            Question {currentQuestion + 1} of {quizData.questions.length}
+          </span>
           <span>{Math.round(progress)}%</span>
         </div>
         <div className="h-2 bg-secondary rounded-full overflow-hidden">
@@ -198,7 +223,7 @@ export function Quiz() {
                 onClick={() => handleAnswer(option.letter as AnswerKey)}
                 className={cn(
                   "w-full text-left p-4 rounded-xl border-2 transition-all duration-200",
-                  answers[currentQuestion] === option.letter
+                  answers[currentQuestion] === (option.letter as AnswerKey)
                     ? "border-primary bg-primary/10 text-foreground"
                     : "border-border bg-card text-foreground hover:border-primary/50 hover:bg-secondary"
                 )}
