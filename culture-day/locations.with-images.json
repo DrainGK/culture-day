@@ -1,0 +1,881 @@
+[
+  {
+    "id": "pantheon",
+    "name": "The Pantheon",
+    "location": "Paris, France",
+    "region": "Ile-de-France",
+    "coordinates": {
+      "lat": 48.846,
+      "lng": 2.346
+    },
+    "description": "Final resting place of Voltaire, Rousseau, Hugo, Zola, and Marie Curie.",
+    "image": "/images/locations/pantheon.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Panth%C3%A9on_(Rome)",
+    "image_lang": "fr",
+    "wiki_title": "Panthéon (Rome)"
+  },
+  {
+    "id": "cafe-flore",
+    "name": "Cafe de Flore",
+    "location": "Saint-Germain-des-Pres, Paris",
+    "region": "Ile-de-France",
+    "coordinates": {
+      "lat": 48.854,
+      "lng": 2.333
+    },
+    "description": "The legendary cafe where Sartre and Beauvoir wrote and debated existentialism.",
+    "image": "/images/locations/cafe-flore.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Caf%C3%A9_de_Flore",
+    "image_lang": "fr",
+    "wiki_title": "Café de Flore"
+  },
+  {
+    "id": "sorbonne",
+    "name": "La Sorbonne",
+    "location": "Paris, France",
+    "region": "Ile-de-France",
+    "coordinates": {
+      "lat": 48.849,
+      "lng": 2.344
+    },
+    "description": "Historic university founded in 1257, center of French intellectual life.",
+    "image": "/images/locations/sorbonne.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Sorbonne",
+    "image_lang": "fr",
+    "wiki_title": "Sorbonne"
+  },
+  {
+    "id": "pere-lachaise",
+    "name": "Pere Lachaise Cemetery",
+    "location": "Paris, France",
+    "region": "Ile-de-France",
+    "coordinates": {
+      "lat": 48.861,
+      "lng": 2.393
+    },
+    "description": "Final resting place of many philosophers, writers, and artists.",
+    "image": "/images/locations/pere-lachaise.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Taphophilie",
+    "image_lang": "fr",
+    "wiki_title": "Taphophilie"
+  },
+  {
+    "id": "versailles",
+    "name": "Palace of Versailles",
+    "location": "Versailles, France",
+    "region": "Ile-de-France",
+    "coordinates": {
+      "lat": 48.805,
+      "lng": 2.12
+    },
+    "description": "Symbol of absolute monarchy that sparked Enlightenment critiques.",
+    "image": "/images/locations/versailles.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Takashi_Murakami",
+    "image_lang": "fr",
+    "wiki_title": "Takashi Murakami"
+  },
+  {
+    "id": "college-de-france",
+    "name": "College de France",
+    "location": "Paris, France",
+    "region": "Ile-de-France",
+    "coordinates": {
+      "lat": 48.85,
+      "lng": 2.345
+    },
+    "description": "Prestigious institution where Foucault and Bergson lectured, founded by Francis I in 1530.",
+    "image": "/images/locations/college-de-france.png",
+    "image_source": "https://fr.wikipedia.org/wiki/Coll%C3%A8ge_de_France",
+    "image_lang": "fr",
+    "wiki_title": "Collège de France"
+  },
+  {
+    "id": "les-deux-magots",
+    "name": "Les Deux Magots",
+    "location": "Saint-Germain-des-Pres, Paris",
+    "region": "Ile-de-France",
+    "coordinates": {
+      "lat": 48.854,
+      "lng": 2.333
+    },
+    "description": "Historic cafe frequented by intellectuals including Sartre, Hemingway, and Picasso.",
+    "image": "/images/locations/les-deux-magots.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Les_Deux_Magots",
+    "image_lang": "fr",
+    "wiki_title": "Les Deux Magots"
+  },
+  {
+    "id": "montaigne-tower",
+    "name": "Montaigne's Tower",
+    "location": "Saint-Michel-de-Montaigne, Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "coordinates": {
+      "lat": 44.859,
+      "lng": 0.036
+    },
+    "description": "The circular library where Montaigne wrote his famous Essays.",
+    "image": "/images/locations/montaigne-tower.jpg",
+    "image_source": "https://en.wikipedia.org/wiki/Montaigne's_tower",
+    "image_lang": "en",
+    "wiki_title": "Montaigne's tower"
+  },
+  {
+    "id": "place-de-la-bourse",
+    "name": "Place de la Bourse",
+    "location": "Bordeaux, France",
+    "region": "Nouvelle-Aquitaine",
+    "coordinates": {
+      "lat": 44.841,
+      "lng": -0.569
+    },
+    "description": "Iconic Bordeaux landmark facing the Garonne River, famous for the Water Mirror (Miroir d'eau).",
+    "image": "/images/locations/place-de-la-bourse.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Place_de_la_Bourse_(Bordeaux)",
+    "image_lang": "fr",
+    "wiki_title": "Place de la Bourse (Bordeaux)"
+  },
+  {
+    "id": "dune-du-pilat",
+    "name": "Dune du Pilat",
+    "location": "La Teste-de-Buch, Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "coordinates": {
+      "lat": 44.589,
+      "lng": -1.213
+    },
+    "description": "Europe’s tallest sand dune with sweeping views over the Atlantic and Arcachon Bay.",
+    "image": "/images/locations/dune-du-pilat.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Dune_du_Pilat",
+    "image_lang": "fr",
+    "wiki_title": "Dune du Pilat"
+  },
+  {
+    "id": "lascaux-cave",
+    "name": "Lascaux Cave (Lascaux IV)",
+    "location": "Montignac-Lascaux, Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "coordinates": {
+      "lat": 45.054,
+      "lng": 1.167
+    },
+    "description": "World-famous prehistoric cave paintings (accessible via the Lascaux IV replica center).",
+    "image": "/images/locations/lascaux-cave.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Grotte_de_Lascaux",
+    "image_lang": "fr",
+    "wiki_title": "Grotte de Lascaux"
+  },
+  {
+    "id": "biarritz-rocher",
+    "name": "Rocher de la Vierge",
+    "location": "Biarritz, France",
+    "region": "Nouvelle-Aquitaine",
+    "coordinates": {
+      "lat": 43.484,
+      "lng": -1.563
+    },
+    "description": "Biarritz symbol: a rocky islet linked by a bridge, with dramatic ocean views.",
+    "image": "/images/locations/biarritz-rocher.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Rocher_de_la_Vierge",
+    "image_lang": "fr",
+    "wiki_title": "Rocher de la Vierge"
+  },
+  {
+    "id": "ferney-voltaire",
+    "name": "Chateau de Ferney",
+    "location": "Ferney-Voltaire, Ain",
+    "region": "Auvergne-Rhone-Alpes",
+    "coordinates": {
+      "lat": 46.259,
+      "lng": 6.108
+    },
+    "description": "Voltaire's home for the last 20 years of his life where he wrote and received visitors from across Europe.",
+    "image": "/images/locations/ferney-voltaire.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Voltaire",
+    "image_lang": "fr",
+    "wiki_title": "Château de Voltaire"
+  },
+  {
+    "id": "lyon-institut",
+    "name": "Institut Lumiere",
+    "location": "Lyon, France",
+    "region": "Auvergne-Rhone-Alpes",
+    "coordinates": {
+      "lat": 45.745,
+      "lng": 4.87
+    },
+    "description": "Museum in the Lumiere brothers' family home, birthplace of cinema.",
+    "image": "/images/locations/lyon-institut.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Institut_Lumi%C3%A8re",
+    "image_lang": "fr",
+    "wiki_title": "Institut Lumière"
+  },
+  {
+    "id": "mont-blanc",
+    "name": "Mont Blanc (Chamonix viewpoint)",
+    "location": "Chamonix-Mont-Blanc, France",
+    "region": "Auvergne-Rhone-Alpes",
+    "coordinates": {
+      "lat": 45.923,
+      "lng": 6.869
+    },
+    "description": "The iconic highest peak in the Alps, a legendary mountaineering destination.",
+    "image": "/images/locations/mont-blanc.jpg",
+    "image_source": "https://en.wikipedia.org/wiki/Chamonix",
+    "image_lang": "en",
+    "wiki_title": "Chamonix"
+  },
+  {
+    "id": "fourviere-basilica",
+    "name": "Basilica of Notre-Dame de Fourviere",
+    "location": "Lyon, France",
+    "region": "Auvergne-Rhone-Alpes",
+    "coordinates": {
+      "lat": 45.762,
+      "lng": 4.822
+    },
+    "description": "Lyon’s hilltop basilica with panoramic views over the city.",
+    "image": "/images/locations/fourviere-basilica.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Notre-Dame_de_la_Bonne_Sant%C3%A9",
+    "image_lang": "fr",
+    "wiki_title": "Notre-Dame de la Bonne Santé"
+  },
+  {
+    "id": "puy-de-dome",
+    "name": "Puy de Dome",
+    "location": "Orcines, Auvergne, France",
+    "region": "Auvergne-Rhone-Alpes",
+    "coordinates": {
+      "lat": 45.772,
+      "lng": 2.965
+    },
+    "description": "Famous volcano summit in the Chaîne des Puys with sweeping views and historic science experiments.",
+    "image": "/images/locations/puy-de-dome.png",
+    "image_source": "https://fr.wikipedia.org/wiki/Puy-de-D%C3%B4me",
+    "image_lang": "fr",
+    "wiki_title": "Puy-de-Dôme"
+  },
+  {
+    "id": "mont-saint-michel",
+    "name": "Mont-Saint-Michel",
+    "location": "Mont-Saint-Michel, Normandy, France",
+    "region": "Normandie",
+    "coordinates": {
+      "lat": 48.636,
+      "lng": -1.511
+    },
+    "description": "Iconic island abbey and medieval village rising from the bay.",
+    "image": "/images/locations/mont-saint-michel.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Le_Mont-Saint-Michel",
+    "image_lang": "fr",
+    "wiki_title": "Le Mont-Saint-Michel"
+  },
+  {
+    "id": "rouen-cathedral",
+    "name": "Rouen Cathedral",
+    "location": "Rouen, France",
+    "region": "Normandie",
+    "coordinates": {
+      "lat": 49.44,
+      "lng": 1.093
+    },
+    "description": "Gothic cathedral immortalized by Monet’s painting series.",
+    "image": "/images/locations/rouen-cathedral.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Rouen",
+    "image_lang": "fr",
+    "wiki_title": "Cathédrale Notre-Dame de Rouen"
+  },
+  {
+    "id": "omaha-beach",
+    "name": "Omaha Beach",
+    "location": "Colleville-sur-Mer, Normandy, France",
+    "region": "Normandie",
+    "coordinates": {
+      "lat": 49.377,
+      "lng": -0.874
+    },
+    "description": "Major D-Day landing beach and a key WWII memorial area.",
+    "image": "/images/locations/omaha-beach.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Omaha_Beach",
+    "image_lang": "fr",
+    "wiki_title": "Omaha Beach"
+  },
+  {
+    "id": "honfleur-port",
+    "name": "Honfleur Old Harbor",
+    "location": "Honfleur, France",
+    "region": "Normandie",
+    "coordinates": {
+      "lat": 49.419,
+      "lng": 0.233
+    },
+    "description": "Charming historic port known for its reflections, art heritage, and seaside atmosphere.",
+    "image": "/images/locations/honfleur-port.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Patrick_Pr%C3%A9jean",
+    "image_lang": "fr",
+    "wiki_title": "Patrick Préjean"
+  },
+  {
+    "id": "bayeux-tapestry",
+    "name": "Bayeux Tapestry Museum",
+    "location": "Bayeux, France",
+    "region": "Normandie",
+    "coordinates": {
+      "lat": 49.277,
+      "lng": -0.703
+    },
+    "description": "Home of the famous embroidered chronicle of the Norman Conquest.",
+    "image": "/images/locations/bayeux-tapestry.png",
+    "image_source": "https://fr.wikipedia.org/wiki/Tapisserie_de_Bayeux",
+    "image_lang": "fr",
+    "wiki_title": "Tapisserie de Bayeux"
+  },
+  {
+    "id": "st-malo",
+    "name": "Saint-Malo Intra-Muros",
+    "location": "Saint-Malo, Brittany, France",
+    "region": "Bretagne",
+    "coordinates": {
+      "lat": 48.649,
+      "lng": -2.026
+    },
+    "description": "Walled corsair city with dramatic tides and rugged coast views.",
+    "image": "/images/locations/st-malo.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Saint-Malo",
+    "image_lang": "fr",
+    "wiki_title": "Saint-Malo"
+  },
+  {
+    "id": "pointe-du-raz",
+    "name": "Pointe du Raz",
+    "location": "Plogoff, Brittany, France",
+    "region": "Bretagne",
+    "coordinates": {
+      "lat": 48.04,
+      "lng": -4.734
+    },
+    "description": "Spectacular cliff cape facing the Raz de Sein, one of Brittany’s wildest landscapes.",
+    "image": "/images/locations/pointe-du-raz.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Pointe_du_Raz",
+    "image_lang": "fr",
+    "wiki_title": "Pointe du Raz"
+  },
+  {
+    "id": "carnac-stones",
+    "name": "Carnac Stones",
+    "location": "Carnac, Brittany, France",
+    "region": "Bretagne",
+    "coordinates": {
+      "lat": 47.592,
+      "lng": -3.081
+    },
+    "description": "Prehistoric megalithic alignments, among the most famous in the world.",
+    "image": "/images/locations/carnac-stones.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Alignements_de_Carnac",
+    "image_lang": "fr",
+    "wiki_title": "Alignements de Carnac"
+  },
+  {
+    "id": "rennes-parliament",
+    "name": "Parliament of Brittany",
+    "location": "Rennes, Brittany, France",
+    "region": "Bretagne",
+    "coordinates": {
+      "lat": 48.111,
+      "lng": -1.68
+    },
+    "description": "Historic civic building and symbol of Brittany’s legal and political history.",
+    "image": "/images/locations/rennes-parliament.png",
+    "image_source": "https://fr.wikipedia.org/wiki/Jules-Henry_Onffroy_de_Thoron",
+    "image_lang": "fr",
+    "wiki_title": "Jules-Henry Onffroy de Thoron"
+  },
+  {
+    "id": "quimper-cathedral",
+    "name": "Quimper Cathedral",
+    "location": "Quimper, Brittany, France",
+    "region": "Bretagne",
+    "coordinates": {
+      "lat": 47.995,
+      "lng": -4.096
+    },
+    "description": "Gothic cathedral at the heart of one of Brittany’s prettiest old towns.",
+    "image": "/images/locations/quimper-cathedral.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Corentin_de_Quimper",
+    "image_lang": "fr",
+    "wiki_title": "Cathédrale Saint-Corentin de Quimper"
+  },
+  {
+    "id": "notre-dame-de-la-garde",
+    "name": "Notre-Dame de la Garde",
+    "location": "Marseille, France",
+    "region": "Provence-Alpes-Cote-dAzur",
+    "coordinates": {
+      "lat": 43.285,
+      "lng": 5.371
+    },
+    "description": "Marseille’s hilltop basilica with sweeping views and deep local symbolism.",
+    "image": "/images/locations/notre-dame-de-la-garde.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame-de-la-Garde",
+    "image_lang": "fr",
+    "wiki_title": "Basilique Notre-Dame-de-la-Garde"
+  },
+  {
+    "id": "promenade-des-anglais",
+    "name": "Promenade des Anglais",
+    "location": "Nice, France",
+    "region": "Provence-Alpes-Cote-dAzur",
+    "coordinates": {
+      "lat": 43.695,
+      "lng": 7.265
+    },
+    "description": "Famous seaside boulevard along the Baie des Anges.",
+    "image": "/images/locations/promenade-des-anglais.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Promenade_des_Anglais",
+    "image_lang": "fr",
+    "wiki_title": "Promenade des Anglais"
+  },
+  {
+    "id": "palais-des-papes",
+    "name": "Palais des Papes",
+    "location": "Avignon, France",
+    "region": "Provence-Alpes-Cote-dAzur",
+    "coordinates": {
+      "lat": 43.95,
+      "lng": 4.807
+    },
+    "description": "Monumental papal palace, a key site of medieval European history.",
+    "image": "/images/locations/palais-des-papes.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Palais_des_papes_d'Avignon",
+    "image_lang": "fr",
+    "wiki_title": "Palais des papes d'Avignon"
+  },
+  {
+    "id": "gorges-du-verdon",
+    "name": "Gorges du Verdon",
+    "location": "Verdon Gorge, France",
+    "region": "Provence-Alpes-Cote-dAzur",
+    "coordinates": {
+      "lat": 43.75,
+      "lng": 6.37
+    },
+    "description": "Epic canyon known for turquoise waters, cliffs, hiking, and viewpoints.",
+    "image": "/images/locations/gorges-du-verdon.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Gorges_du_Verdon",
+    "image_lang": "fr",
+    "wiki_title": "Gorges du Verdon"
+  },
+  {
+    "id": "calanques-national-park",
+    "name": "Calanques National Park",
+    "location": "Marseille / Cassis, France",
+    "region": "Provence-Alpes-Cote-dAzur",
+    "coordinates": {
+      "lat": 43.213,
+      "lng": 5.436
+    },
+    "description": "Limestone inlets and cliffs meeting the Mediterranean in breathtaking coves.",
+    "image": "/images/locations/calanques-national-park.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_Porquerolles",
+    "image_lang": "fr",
+    "wiki_title": "Île de Porquerolles"
+  },
+  {
+    "id": "cite-de-carcassonne",
+    "name": "Cite de Carcassonne",
+    "location": "Carcassonne, France",
+    "region": "Occitanie",
+    "coordinates": {
+      "lat": 43.206,
+      "lng": 2.363
+    },
+    "description": "Fairytale medieval fortified city with walls, towers, and deep history.",
+    "image": "/images/locations/cite-de-carcassonne.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Cit%C3%A9_de_Carcassonne",
+    "image_lang": "fr",
+    "wiki_title": "Cité de Carcassonne"
+  },
+  {
+    "id": "pont-du-gard",
+    "name": "Pont du Gard",
+    "location": "Vers-Pont-du-Gard, France",
+    "region": "Occitanie",
+    "coordinates": {
+      "lat": 43.947,
+      "lng": 4.535
+    },
+    "description": "Roman aqueduct masterpiece and one of France’s most famous ancient monuments.",
+    "image": "/images/locations/pont-du-gard.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Pont_du_Gard",
+    "image_lang": "fr",
+    "wiki_title": "Pont du Gard"
+  },
+  {
+    "id": "capitole-de-toulouse",
+    "name": "Capitole de Toulouse",
+    "location": "Toulouse, France",
+    "region": "Occitanie",
+    "coordinates": {
+      "lat": 43.604,
+      "lng": 1.444
+    },
+    "description": "Iconic city hall and grand square at the heart of the Pink City.",
+    "image": "/images/locations/capitole-de-toulouse.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Capitole_de_Toulouse",
+    "image_lang": "fr",
+    "wiki_title": "Capitole de Toulouse"
+  },
+  {
+    "id": "arenes-de-nimes",
+    "name": "Arenes de Nimes",
+    "location": "Nimes, France",
+    "region": "Occitanie",
+    "coordinates": {
+      "lat": 43.834,
+      "lng": 4.36
+    },
+    "description": "Remarkably preserved Roman amphitheatre still used for events.",
+    "image": "/images/locations/arenes-de-nimes.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Ar%C3%A8nes_de_N%C3%AEmes",
+    "image_lang": "fr",
+    "wiki_title": "Arènes de Nîmes"
+  },
+  {
+    "id": "pic-du-midi",
+    "name": "Pic du Midi Observatory",
+    "location": "La Mongie, Hautes-Pyrenees, France",
+    "region": "Occitanie",
+    "coordinates": {
+      "lat": 42.937,
+      "lng": 0.142
+    },
+    "description": "High-mountain observatory with extraordinary panoramic views over the Pyrenees.",
+    "image": "/images/locations/pic-du-midi.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Pic_du_Midi_de_Bigorre",
+    "image_lang": "fr",
+    "wiki_title": "Pic du Midi de Bigorre"
+  },
+  {
+    "id": "louvre-lens",
+    "name": "Louvre-Lens Museum",
+    "location": "Lens, France",
+    "region": "Hauts-de-France",
+    "coordinates": {
+      "lat": 50.433,
+      "lng": 2.805
+    },
+    "description": "Satellite of the Louvre showcasing major works in a modern architectural setting.",
+    "image": "/images/locations/louvre-lens.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Louvre-Lens",
+    "image_lang": "fr",
+    "wiki_title": "Louvre-Lens"
+  },
+  {
+    "id": "lille-grand-place",
+    "name": "Grand Place (Place du General de Gaulle)",
+    "location": "Lille, France",
+    "region": "Hauts-de-France",
+    "coordinates": {
+      "lat": 50.637,
+      "lng": 3.063
+    },
+    "description": "Historic central square surrounded by Flemish-style architecture and cafés.",
+    "image": "/images/locations/lille-grand-place.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Place_du_G%C3%A9n%C3%A9ral-de-Gaulle_(Lille)",
+    "image_lang": "fr",
+    "wiki_title": "Place du Général-de-Gaulle (Lille)"
+  },
+  {
+    "id": "amiens-cathedral",
+    "name": "Amiens Cathedral",
+    "location": "Amiens, France",
+    "region": "Hauts-de-France",
+    "coordinates": {
+      "lat": 49.894,
+      "lng": 2.301
+    },
+    "description": "Gothic giant and UNESCO site, among the largest cathedrals in Europe.",
+    "image": "/images/locations/amiens-cathedral.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_d'Amiens",
+    "image_lang": "fr",
+    "wiki_title": "Cathédrale Notre-Dame d'Amiens"
+  },
+  {
+    "id": "chantilly-chateau",
+    "name": "Chateau de Chantilly",
+    "location": "Chantilly, Oise, France",
+    "region": "Hauts-de-France",
+    "coordinates": {
+      "lat": 49.194,
+      "lng": 2.485
+    },
+    "description": "Grand château, art collections, gardens, and the famous Chantilly cream heritage.",
+    "image": "/images/locations/chantilly-chateau.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Chantilly",
+    "image_lang": "fr",
+    "wiki_title": "Château de Chantilly"
+  },
+  {
+    "id": "cap-blanc-nez",
+    "name": "Cap Blanc-Nez",
+    "location": "Escalles, France",
+    "region": "Hauts-de-France",
+    "coordinates": {
+      "lat": 50.936,
+      "lng": 1.705
+    },
+    "description": "Dramatic white chalk cliffs overlooking the English Channel near Calais.",
+    "image": "/images/locations/cap-blanc-nez.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Cap_Blanc-Nez",
+    "image_lang": "fr",
+    "wiki_title": "Cap Blanc-Nez"
+  },
+  {
+    "id": "strasbourg-cathedral",
+    "name": "Strasbourg Cathedral",
+    "location": "Strasbourg, France",
+    "region": "Grand-Est",
+    "coordinates": {
+      "lat": 48.581,
+      "lng": 7.75
+    },
+    "description": "Masterpiece of Gothic architecture with a famed astronomical clock.",
+    "image": "/images/locations/strasbourg-cathedral.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Strasbourg",
+    "image_lang": "fr",
+    "wiki_title": "Cathédrale Notre-Dame de Strasbourg"
+  },
+  {
+    "id": "place-stanislas",
+    "name": "Place Stanislas",
+    "location": "Nancy, France",
+    "region": "Grand-Est",
+    "coordinates": {
+      "lat": 48.693,
+      "lng": 6.184
+    },
+    "description": "UNESCO-listed square, a jewel of 18th-century urban design.",
+    "image": "/images/locations/place-stanislas.jpg"
+  },
+  {
+    "id": "reims-cathedral",
+    "name": "Reims Cathedral",
+    "location": "Reims, France",
+    "region": "Grand-Est",
+    "coordinates": {
+      "lat": 49.254,
+      "lng": 4.034
+    },
+    "description": "Traditional coronation site of French kings and a major Gothic landmark.",
+    "image": "/images/locations/reims-cathedral.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame_de_Reims",
+    "image_lang": "fr",
+    "wiki_title": "Cathédrale Notre-Dame de Reims"
+  },
+  {
+    "id": "haut-koenigsbourg",
+    "name": "Chateau du Haut-Koenigsbourg",
+    "location": "Orschwiller, Alsace, France",
+    "region": "Grand-Est",
+    "coordinates": {
+      "lat": 48.249,
+      "lng": 7.345
+    },
+    "description": "Spectacular restored medieval castle overlooking the Alsace plain.",
+    "image": "/images/locations/haut-koenigsbourg.jpg"
+  },
+  {
+    "id": "verdun-memorial",
+    "name": "Verdun Memorial / Douaumont Ossuary",
+    "location": "Verdun, France",
+    "region": "Grand-Est",
+    "coordinates": {
+      "lat": 49.205,
+      "lng": 5.423
+    },
+    "description": "Major WWI memorial site commemorating the Battle of Verdun.",
+    "image": "/images/locations/verdun-memorial.jpg"
+  },
+  {
+    "id": "chateau-ducs-bretagne",
+    "name": "Chateau des Ducs de Bretagne",
+    "location": "Nantes, France",
+    "region": "Pays-de-la-Loire",
+    "coordinates": {
+      "lat": 47.215,
+      "lng": -1.553
+    },
+    "description": "Fortress château and museum recounting Nantes and Brittany’s history.",
+    "image": "/images/locations/chateau-ducs-bretagne.jpg",
+    "image_source": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_ducs_de_Bretagne",
+    "image_lang": "fr",
+    "wiki_title": "Château des ducs de Bretagne"
+  },
+  {
+    "id": "puy-du-fou",
+    "name": "Puy du Fou",
+    "location": "Les Epesses, Vendee, France",
+    "region": "Pays-de-la-Loire",
+    "coordinates": {
+      "lat": 46.895,
+      "lng": -0.932
+    },
+    "description": "Famous historical theme park known for large-scale live shows.",
+    "image": "/images/locations/puy-du-fou.jpg"
+  },
+  {
+    "id": "circuit-des-24h",
+    "name": "Circuit des 24 Heures du Mans",
+    "location": "Le Mans, France",
+    "region": "Pays-de-la-Loire",
+    "coordinates": {
+      "lat": 47.95,
+      "lng": 0.21
+    },
+    "description": "Legendary endurance racing circuit home to the 24 Hours of Le Mans.",
+    "image": "/images/locations/circuit-des-24h.jpg"
+  },
+  {
+    "id": "angers-chateau",
+    "name": "Chateau d'Angers",
+    "location": "Angers, France",
+    "region": "Pays-de-la-Loire",
+    "coordinates": {
+      "lat": 47.478,
+      "lng": -0.552
+    },
+    "description": "Massive medieval fortress famous for the Apocalypse Tapestry.",
+    "image": "/images/locations/angers-chateau.jpg"
+  },
+  {
+    "id": "passage-du-gois",
+    "name": "Passage du Gois",
+    "location": "Beauvoir-sur-Mer / Noirmoutier, France",
+    "region": "Pays-de-la-Loire",
+    "coordinates": {
+      "lat": 46.967,
+      "lng": -2.148
+    },
+    "description": "A tidal causeway that disappears under the sea at high tide.",
+    "image": "/images/locations/passage-du-gois.jpg"
+  },
+  {
+    "id": "chateau-de-chambord",
+    "name": "Chateau de Chambord",
+    "location": "Chambord, France",
+    "region": "Centre-Val-de-Loire",
+    "coordinates": {
+      "lat": 47.617,
+      "lng": 1.516
+    },
+    "description": "Renaissance masterpiece linked to François I and famous for its double-helix staircase.",
+    "image": "/images/locations/chateau-de-chambord.jpg"
+  },
+  {
+    "id": "chateau-de-chenonceau",
+    "name": "Chateau de Chenonceau",
+    "location": "Chenonceaux, France",
+    "region": "Centre-Val-de-Loire",
+    "coordinates": {
+      "lat": 47.325,
+      "lng": 1.07
+    },
+    "description": "Elegant Loire château spanning the Cher River, associated with powerful women of French history.",
+    "image": "/images/locations/chateau-de-chenonceau.jpg"
+  },
+  {
+    "id": "chartres-cathedral",
+    "name": "Chartres Cathedral",
+    "location": "Chartres, France",
+    "region": "Centre-Val-de-Loire",
+    "coordinates": {
+      "lat": 48.447,
+      "lng": 1.489
+    },
+    "description": "UNESCO-listed Gothic cathedral celebrated for its stained glass.",
+    "image": "/images/locations/chartres-cathedral.jpg"
+  },
+  {
+    "id": "villandry-gardens",
+    "name": "Gardens of Villandry",
+    "location": "Villandry, France",
+    "region": "Centre-Val-de-Loire",
+    "coordinates": {
+      "lat": 47.343,
+      "lng": 0.514
+    },
+    "description": "Iconic Renaissance gardens with geometric patterns and ornamental beds.",
+    "image": "/images/locations/villandry-gardens.jpg"
+  },
+  {
+    "id": "orleans-cathedral",
+    "name": "Orleans Cathedral (Sainte-Croix)",
+    "location": "Orleans, France",
+    "region": "Centre-Val-de-Loire",
+    "coordinates": {
+      "lat": 47.902,
+      "lng": 1.909
+    },
+    "description": "Major cathedral linked to the memory of Joan of Arc and the city’s history.",
+    "image": "/images/locations/orleans-cathedral.jpg"
+  },
+  {
+    "id": "hospices-de-beaune",
+    "name": "Hospices de Beaune",
+    "location": "Beaune, France",
+    "region": "Bourgogne-Franche-Comte",
+    "coordinates": {
+      "lat": 47.026,
+      "lng": 4.84
+    },
+    "description": "Famed historic hospital with colorful tiled roofs and a legendary wine auction.",
+    "image": "/images/locations/hospices-de-beaune.jpg"
+  },
+  {
+    "id": "dijon-palace-ducs",
+    "name": "Palace of the Dukes of Burgundy",
+    "location": "Dijon, France",
+    "region": "Bourgogne-Franche-Comte",
+    "coordinates": {
+      "lat": 47.322,
+      "lng": 5.041
+    },
+    "description": "Historic complex in Dijon reflecting Burgundy’s powerful ducal era.",
+    "image": "/images/locations/dijon-palace-ducs.jpg"
+  },
+  {
+    "id": "vezelay-basilica",
+    "name": "Basilica of Vezelay",
+    "location": "Vezelay, France",
+    "region": "Bourgogne-Franche-Comte",
+    "coordinates": {
+      "lat": 47.464,
+      "lng": 3.747
+    },
+    "description": "Romanesque basilica and UNESCO site, an important pilgrimage landmark.",
+    "image": "/images/locations/vezelay-basilica.jpg"
+  },
+  {
+    "id": "besancon-citadel",
+    "name": "Citadel of Besancon",
+    "location": "Besancon, France",
+    "region": "Bourgogne-Franche-Comte",
+    "coordinates": {
+      "lat": 47.249,
+      "lng": 6.026
+    },
+    "description": "Vauban fortress overlooking the city, a UNESCO-listed military masterpiece.",
+    "image": "/images/locations/besancon-citadel.jpg"
+  },
+  {
+    "id": "cluny-abbey",
+    "name": "Abbey of Cluny",
+    "location": "Cluny, France",
+    "region": "Bourgogne-Franche-Comte",
+    "coordinates": {
+      "lat": 46.434,
+      "lng": 4.659
+    },
+    "description": "Once the largest church in Western Christendom and a major medieval monastic center.",
+    "image": "/images/locations/cluny-abbey.jpg"
+  }
+]

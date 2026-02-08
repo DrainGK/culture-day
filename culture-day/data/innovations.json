@@ -1,222 +1,1023 @@
 [
-  {
-    "id": "photography",
-    "name": "Photography",
-    "date": "1826",
-    "innovator": "Nicéphore Niépce & Louis Daguerre",
-    "description": "The invention of photography revolutionized how humanity captures and preserves visual memories.",
-    "context": "Before photography, portraits required expensive painters. Niépce created the first photograph using bitumen-coated pewter, while Daguerre later developed the daguerreotype process.",
-    "consequences": "Photography democratized portraiture, transformed journalism, enabled scientific documentation, and laid groundwork for cinema. It fundamentally changed human perception of history and memory.",
-    "anecdote": "Niépce's first photograph required an 8-hour exposure time. When he showed it to people, many didn't understand what they were looking at since the concept of a 'captured moment' was entirely foreign.",
-    "image": "/images/photography.jpg"
-  },
-  {
-    "id": "pasteurization",
-    "name": "Pasteurization",
-    "date": "1862",
-    "innovator": "Louis Pasteur",
-    "description": "A heat treatment process that eliminates pathogens in food and beverages, making them safe for consumption.",
-    "context": "Diseases from contaminated milk and wine were rampant. Pasteur discovered that heating liquids killed harmful microorganisms without significantly altering taste.",
-    "consequences": "Saved millions of lives by preventing tuberculosis, typhoid, and other diseases. Made milk safe for children and enabled global food trade.",
-    "anecdote": "Pasteur was originally hired by French wine producers who were losing money to 'wine diseases.' His solution saved the wine industry before he applied it to milk.",
-    "image": "/images/pasteurization.jpg"
-  },
-  {
-    "id": "rabies-vaccine",
-    "name": "Rabies Vaccine",
-    "date": "1885",
-    "innovator": "Louis Pasteur & Émile Roux",
-    "description": "The first vaccine to successfully protect humans against the deadly rabies virus.",
-    "context": "Rabies was 100% fatal once symptoms appeared. Pasteur developed an attenuated vaccine by passing the virus through rabbit spinal cords.",
-    "consequences": "Pioneered the field of vaccinology, saved countless lives, and established the template for modern vaccine development.",
-    "anecdote": "Pasteur first tested it on 9-year-old Joseph Meister who had been bitten by a rabid dog. The boy survived and later became the gatekeeper at the Pasteur Institute.",
-    "image": "/images/rabies-vaccine.jpg"
-  },
-  {
-    "id": "metric-system",
-    "name": "Metric System",
-    "date": "1795",
-    "innovator": "French Academy of Sciences",
-    "description": "A decimal-based system of measurement that standardized units worldwide.",
-    "context": "Before the metric system, France alone had over 250,000 different units of measurement. The Revolutionary government sought rational, universal standards.",
-    "consequences": "Enabled international trade, scientific collaboration, and engineering precision. Now used by virtually every country except the US, Myanmar, and Liberia.",
-    "anecdote": "The original meter was defined as one ten-millionth of the distance from the equator to the North Pole. Two astronomers spent 7 years measuring this distance.",
-    "image": "/images/metric-system.jpg"
-  },
-  {
-    "id": "hot-air-balloon",
-    "name": "Hot Air Balloon",
-    "date": "1783",
-    "innovator": "Montgolfier Brothers",
-    "description": "The first successful human flight technology, using heated air to achieve lift.",
-    "context": "The dream of human flight had existed for millennia. The Montgolfier brothers observed that smoke rises and built increasingly larger balloons.",
-    "consequences": "Proved human flight was possible, inspired aviation pioneers, and was immediately used for military reconnaissance.",
-    "anecdote": "The first passengers were a sheep, a duck, and a rooster. King Louis XVI initially insisted a condemned prisoner should be the first human aeronaut, but a nobleman demanded the honor instead.",
-    "image": "/images/hot-air-balloon.jpg"
-  },
-  {
-    "id": "cinema",
-    "name": "Cinema",
-    "date": "1895",
-    "innovator": "Auguste & Louis Lumière",
-    "description": "The invention of motion pictures and public film projection, creating an entirely new art form.",
-    "context": "Building on chronophotography research, the Lumière brothers created the Cinématographe, a device that could record and project moving images.",
-    "consequences": "Created a multi-billion dollar entertainment industry, transformed storytelling, and became the dominant cultural medium of the 20th century.",
-    "anecdote": "At the first screening, audiences reportedly screamed and ducked when seeing a train arrive at a station, believing it would come through the screen.",
-    "image": "/images/cinema.jpg"
-  },
-  {
-    "id": "radioactivity",
-    "name": "Radioactivity",
-    "date": "1896",
-    "innovator": "Henri Becquerel",
-    "description": "The discovery of spontaneous radiation emission from certain elements.",
-    "context": "Becquerel accidentally discovered radioactivity while investigating phosphorescence. He left uranium salts on photographic plates in a dark drawer.",
-    "consequences": "Led to nuclear physics, medical imaging, cancer treatment, and unfortunately, nuclear weapons. Marie Curie's subsequent research won two Nobel Prizes.",
-    "anecdote": "Becquerel carried radium in his pocket, causing burns that helped demonstrate radiation's dangers. He shared the 1903 Nobel Prize with the Curies.",
-    "image": "/images/radioactivity.jpg"
-  },
-  {
-    "id": "braille",
-    "name": "Braille",
-    "date": "1824",
-    "innovator": "Louis Braille",
-    "description": "A tactile writing system using raised dots that enables blind people to read and write.",
-    "context": "Louis Braille was blinded at age 3. At 15, he developed his system inspired by a military 'night writing' code.",
-    "consequences": "Transformed education and independence for blind individuals worldwide. Still the primary tactile literacy system today.",
-    "anecdote": "Braille's system was initially rejected by sighted educators who thought blind students should learn to read raised Latin letters. It wasn't officially adopted in France until after his death.",
-    "image": "/images/braille.jpg"
-  },
-  {
-    "id": "stethoscope",
-    "name": "Stethoscope",
-    "date": "1816",
-    "innovator": "René Laennec",
-    "description": "A medical instrument for listening to internal body sounds, revolutionizing physical examination.",
-    "context": "Laennec was uncomfortable placing his ear directly on a female patient's chest. He rolled paper into a tube and discovered it amplified heart sounds.",
-    "consequences": "Enabled diagnosis of heart and lung conditions, became the iconic symbol of medicine, and remains essential 200 years later.",
-    "anecdote": "Laennec named his invention after the Greek words for 'chest' and 'I examine.' He died of tuberculosis at 45, a disease his invention helped diagnose.",
-    "image": "/images/stethoscope.jpg"
-  },
-  {
-    "id": "bicycle",
-    "name": "Modern Bicycle",
-    "date": "1864",
-    "innovator": "Pierre Michaux & Pierre Lallement",
-    "description": "The pedal-driven bicycle with rotary cranks attached to the front wheel.",
-    "context": "Earlier 'velocipedes' required pushing with feet on the ground. Adding pedals made cycling faster and more efficient.",
-    "consequences": "Revolutionized personal transportation, gave women unprecedented mobility, and inspired aviation pioneers including the Wright Brothers.",
-    "anecdote": "The early bicycles were called 'boneshakers' because of their iron tires and wooden wheels. The pneumatic tire wasn't invented until 1888.",
-    "image": "/images/bicycle.jpg"
-  },
-  {
-    "id": "canning",
-    "name": "Food Canning",
-    "date": "1809",
-    "innovator": "Nicolas Appert",
-    "description": "A method of preserving food in sealed containers through heat sterilization.",
-    "context": "Napoleon offered a prize for food preservation to feed his armies. Appert spent 14 years perfecting the technique using glass jars.",
-    "consequences": "Enabled safe long-term food storage, transformed military logistics, and made seasonal foods available year-round.",
-    "anecdote": "Appert's method worked perfectly but no one knew why (germ theory came 50 years later). He won Napoleon's 12,000 franc prize and published his method freely.",
-    "image": "/images/canning.jpg"
-  },
-  {
-    "id": "internal-combustion",
-    "name": "Internal Combustion Engine",
-    "date": "1860",
-    "innovator": "Étienne Lenoir",
-    "description": "A practical engine that converts fuel into mechanical motion through controlled explosions.",
-    "context": "Steam engines were large and required boilers. Lenoir's gas-powered engine was smaller and could start immediately.",
-    "consequences": "Enabled automobiles, motorcycles, aircraft, and modern transportation. Transformed society but also contributed to climate change.",
-    "anecdote": "Lenoir built the first automobile in 1863, a three-wheeled vehicle that took 3 hours to travel 6 miles. He called it 'the hippomobile' after the Greek word for horse.",
-    "image": "/images/internal-combustion.jpg"
-  },
-  {
-    "id": "aspirin",
-    "name": "Aspirin Synthesis",
-    "date": "1853",
-    "innovator": "Charles Frédéric Gerhardt",
-    "description": "First laboratory synthesis of acetylsalicylic acid, the active compound in aspirin.",
-    "context": "Willow bark had been used medicinally for millennia. Gerhardt was the first to synthesize the pure compound.",
-    "consequences": "Aspirin became the world's most used medication, treating pain, fever, and inflammation. Later discovered to prevent heart attacks.",
-    "anecdote": "Gerhardt didn't pursue his discovery because synthesis was difficult and he saw no commercial potential. Bayer later perfected the process and made billions.",
-    "image": "/images/aspirin.jpg"
-  },
-  {
-    "id": "blood-transfusion",
-    "name": "Blood Transfusion",
-    "date": "1667",
-    "innovator": "Jean-Baptiste Denys",
-    "description": "The first successful transfusion of blood into a human patient.",
-    "context": "William Harvey had recently discovered blood circulation. Denys transfused lamb blood into a sick patient who survived.",
-    "consequences": "Eventually led to modern blood banking, surgical advances, and life-saving trauma care, though animal transfusions were later banned.",
-    "anecdote": "After a patient died from a later transfusion, Denys was put on trial for murder. He was acquitted, but France banned transfusions for 150 years.",
-    "image": "/images/blood-transfusion.jpg"
-  },
-  {
-    "id": "parachute",
-    "name": "Parachute",
-    "date": "1783",
-    "innovator": "Louis-Sébastien Lenormand",
-    "description": "A device using air resistance to slow descent, enabling safe falls from height.",
-    "context": "With hot air balloons being invented, a safety device for aeronauts was urgently needed. Lenormand jumped from a tower with two parasols.",
-    "consequences": "Made aviation safer, enabled airborne military operations, and created recreational skydiving as a sport.",
-    "anecdote": "Lenormand invented the word 'parachute' from the Greek 'para' (against) and French 'chute' (fall). His first public jump was from the Montpellier observatory.",
-    "image": "/images/parachute.jpg"
-  },
-  {
-    "id": "neon-lighting",
-    "name": "Neon Lighting",
-    "date": "1910",
-    "innovator": "Georges Claude",
-    "description": "Electric discharge lighting using neon gas that produces a distinctive red-orange glow.",
-    "context": "Claude was researching air liquefaction and had leftover neon gas. He experimented with passing electricity through it.",
-    "consequences": "Transformed urban nightscapes, created the iconic 'neon sign' aesthetic, and influenced art, architecture, and advertising.",
-    "anecdote": "The first neon sign was displayed at the Paris Motor Show. A Packard car dealership in Los Angeles paid $24,000 for two neon signs in 1923 (about $400,000 today).",
-    "image": "/images/neon-lighting.jpg"
-  },
-  {
-    "id": "submarine",
-    "name": "Modern Submarine",
-    "date": "1863",
-    "innovator": "French Navy (Plongeur)",
-    "description": "The first submarine not powered by human muscle, using compressed air for propulsion.",
-    "context": "Previous submarines required hand-cranking. The Plongeur used compressed air engines, allowing longer underwater journeys.",
-    "consequences": "Revolutionized naval warfare, enabled underwater exploration, and transformed military strategy forever.",
-    "anecdote": "The Plongeur's air consumption was so high it could only stay submerged for a few hours. Modern nuclear submarines can remain underwater for months.",
-    "image": "/images/submarine.jpg"
-  },
-  {
-    "id": "calculator",
-    "name": "Mechanical Calculator",
-    "date": "1642",
-    "innovator": "Blaise Pascal",
-    "description": "The Pascaline, an automatic mechanical calculator for addition and subtraction.",
-    "context": "Pascal built it to help his father, a tax commissioner, perform tedious calculations. He was only 19 years old.",
-    "consequences": "Pioneered mechanical computation, inspired Leibniz's multiplying machine, and laid conceptual groundwork for computers.",
-    "anecdote": "Pascal built 50 prototypes before creating a working model. Only 9 original Pascalines survive today, making them worth millions.",
-    "image": "/images/calculator.jpg"
-  },
-  {
-    "id": "smart-card",
-    "name": "Smart Card",
-    "date": "1974",
-    "innovator": "Roland Moreno",
-    "description": "An integrated circuit card combining memory chip with secure access, enabling digital identity and payments.",
-    "context": "Banks needed secure authentication for transactions. Moreno embedded microprocessors into plastic cards.",
-    "consequences": "Enabled credit cards, SIM cards, transit passes, and secure identification worldwide. Over 10 billion smart cards produced annually.",
-    "anecdote": "Moreno originally envisioned the card for games. He fought patent battles for decades and only received proper recognition late in life.",
-    "image": "/images/smart-card.jpg"
-  },
-  {
-    "id": "tgv",
-    "name": "TGV High-Speed Rail",
-    "date": "1981",
-    "innovator": "SNCF & Alstom",
-    "description": "Revolutionary high-speed train technology operating at speeds over 300 km/h.",
-    "context": "After the 1973 oil crisis, France invested in electric rail as an alternative to air travel for medium distances.",
-    "consequences": "Made high-speed rail commercially viable, reduced domestic flights, and inspired similar systems in Japan, Germany, and China.",
-    "anecdote": "A modified TGV set the world rail speed record of 574.8 km/h in 2007. Regular service operates at 320 km/h, Paris to Lyon in 2 hours.",
-    "image": "/images/tgv.jpg"
-  }
-]
+    {
+      "id": "vernier-scale",
+      "name": "Vernier Scale",
+      "date": "1631",
+      "category": "other",
+      "innovator": "Pierre Vernier",
+      "description": "A precision measurement scale that increases reading accuracy on instruments like calipers and sextants.",
+      "image": "/images/innovations/vernier-scale.jpg",
+      "century": "17th century"
+    },
+    {
+      "id": "analytic-geometry",
+      "name": "Analytic geometry",
+      "date": "1637",
+      "century": "17th",
+      "category": "math",
+      "innovator": "René Descartes",
+      "description": "Coordinates and algebraic geometry foundations enabling modern mathematical modeling.",
+      "image": "/images/innovations/analytic-geometry.png"
+    },
+    {
+      "id": "probability-theory",
+      "name": "Foundations of Probability Theory",
+      "date": "1654",
+      "category": "other",
+      "innovator": "Blaise Pascal & Pierre de Fermat",
+      "description": "Foundational correspondence establishing key ideas in probability and expected value.",
+      "image": "/images/innovations/probability-theory.jpg",
+      "century": "17th century"
+    },
+    {
+      "id": "mariotte-law",
+      "name": "Boyle–Mariotte Law (Gas Pressure–Volume Relation)",
+      "date": "1676",
+      "category": "other",
+      "innovator": "Edme Mariotte",
+      "description": "A foundational gas law linking pressure and volume under constant temperature.",
+      "image": "/images/innovations/mariotte-law.png",
+      "century": "17th century"
+    },
+    {
+      "id": "pressure-cooker-papin",
+      "name": "Pressure Cooker (Steam Digester)",
+      "date": "1679",
+      "category": "other",
+      "innovator": "Denis Papin",
+      "description": "A sealed pot that raises boiling temperature under pressure, cooking faster and extracting nutrients.",
+      "image": "/images/innovations/pressure-cooker-papin.png",
+      "century": "17th"
+    },
+    {
+      "id": "automobile-fr",
+      "name": "Automobile (French pioneers)",
+      "category": "transport",
+      "description": "Key French milestones in the birth of the automobile, from early steam vehicles to early electric road demonstrations.",
+      "milestones": [
+        {
+          "name": "Steam road vehicle (Fardier de Cugnot)",
+          "date": "1769",
+          "innovator": "Nicolas-Joseph Cugnot"
+        },
+        {
+          "name": "Early electric car demonstration (Trouvé tricycle)",
+          "date": "1881",
+          "innovator": "Gustave Trouvé"
+        },
+        {
+          "name": "Early internal-combustion road engine (practical gas engine)",
+          "date": "1860",
+          "innovator": "Étienne Lenoir"
+        }
+      ],
+      "date": "1769",
+      "century": "18th",
+      "innovator": "Multiple (French pioneers)",
+      "image": "/images/innovations/automobile-fr.jpg"
+    },
+    {
+      "id": "cugnot-steam-car",
+      "name": "Steam-Powered Automobile (Fardier à vapeur)",
+      "date": "1769",
+      "category": "other",
+      "innovator": "Nicolas-Joseph Cugnot",
+      "description": "One of the earliest self-propelled road vehicles, built to move heavy artillery using steam power.",
+      "image": "/images/innovations/cugnot-steam-car.jpg",
+      "century": "18th century"
+    },
+    {
+      "id": "hot-air-balloon",
+      "name": "Hot air balloon (human flight)",
+      "date": "1783",
+      "century": "18th",
+      "category": "aviation",
+      "innovator": "Montgolfier Brothers",
+      "description": "First widely recognized human flight technology using heated air for lift.",
+      "image": "/images/innovations/hot-air-balloon.jpg"
+    },
+    {
+      "id": "parachute",
+      "name": "Parachute",
+      "date": "1783",
+      "century": "18th",
+      "category": "aviation",
+      "innovator": "Louis-Sébastien Lenormand (and pioneers like Garnerin)",
+      "description": "Air-resistance device enabling safer descent from height; foundational for aviation safety.",
+      "image": "/images/innovations/parachute.jpg"
+    },
+    {
+      "id": "coulomb-law",
+      "name": "Coulomb’s Law",
+      "date": "1785",
+      "category": "other",
+      "innovator": "Charles-Augustin de Coulomb",
+      "description": "A fundamental law describing the force between electric charges.",
+      "image": "/images/innovations/coulomb-law.png",
+      "century": "18th century"
+    },
+    {
+      "id": "modern-chemistry-lavoisier",
+      "name": "Modern chemistry (oxygen, conservation of mass, nomenclature)",
+      "date": "1789",
+      "century": "18th",
+      "category": "science",
+      "innovator": "Antoine Lavoisier",
+      "description": "Key foundations of modern chemistry: oxygen theory, conservation of mass, and systematic naming.",
+      "image": "/images/innovations/modern-chemistry-lavoisier.png"
+    },
+    {
+      "id": "guillotine",
+      "name": "Guillotine (Standardized Beheading Device)",
+      "date": "1792",
+      "category": "other",
+      "innovator": "Tobias Schmidt (engineer) & French reformers",
+      "description": "A mechanical execution device designed to standardize and (in theory) make capital punishment quicker.",
+      "image": "/images/innovations/guillotine.jpg",
+      "century": "18th century"
+    },
+    {
+      "id": "semaphore-telegraph",
+      "name": "Semaphore Telegraph",
+      "date": "1792",
+      "category": "other",
+      "innovator": "Claude Chappe",
+      "description": "A visual telegraph network that transmitted messages rapidly across long distances using towers and movable arms.",
+      "image": "/images/innovations/semaphore-telegraph.jpg",
+      "century": "18th century"
+    },
+    {
+      "id": "metric-system",
+      "name": "Metric system",
+      "date": "1795",
+      "century": "18th",
+      "category": "science",
+      "innovator": "French Academy of Sciences",
+      "description": "Decimal-based measurement system that standardized units for science, engineering, and trade worldwide.",
+      "image": "/images/innovations/metric-system.jpg"
+    },
+    {
+      "id": "jacquard-loom",
+      "name": "Jacquard Loom (Programmable Weaving)",
+      "date": "1801",
+      "category": "other",
+      "innovator": "Joseph Marie Jacquard",
+      "description": "A weaving loom controlled by punched cards, enabling complex patterns to be produced reliably.",
+      "image": "/images/innovations/jacquard-loom.jpg",
+      "century": "19th"
+    },
+    {
+      "id": "food-canning",
+      "name": "Food canning (appertization)",
+      "date": "1809",
+      "century": "19th",
+      "category": "food",
+      "innovator": "Nicolas Appert",
+      "description": "Heat-sterilized sealed food preservation method that enabled safe long-term storage.",
+      "image": "/images/innovations/food-canning.jpg"
+    },
+    {
+      "id": "probability-laplace",
+      "name": "Probability and statistical foundations",
+      "date": "1812",
+      "century": "19th",
+      "category": "math",
+      "innovator": "Pierre-Simon Laplace",
+      "description": "Foundational work shaping probability theory and modern statistical inference.",
+      "image": "/images/innovations/probability-laplace.jpg"
+    },
+    {
+      "id": "stethoscope",
+      "name": "Stethoscope",
+      "date": "1816",
+      "century": "19th",
+      "category": "medicine",
+      "innovator": "René Laennec",
+      "description": "A diagnostic instrument for listening to internal body sounds, transforming clinical examination.",
+      "image": "/images/innovations/stethoscope.jpg"
+    },
+    {
+      "id": "ampere-electrodynamics",
+      "name": "Foundations of Electrodynamics",
+      "date": "1820",
+      "category": "other",
+      "innovator": "André-Marie Ampère",
+      "description": "Foundational work linking electricity and magnetism, shaping electrodynamics.",
+      "image": "/images/innovations/ampere-electrodynamics.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "cauchy-rigour",
+      "name": "Modern mathematical rigor (analysis foundations)",
+      "date": "1821",
+      "century": "19th",
+      "category": "math",
+      "innovator": "Augustin-Louis Cauchy",
+      "description": "Foundational work bringing rigor to calculus and analysis, shaping modern mathematics.",
+      "image": "/images/innovations/cauchy-rigour.jpg"
+    },
+    {
+      "id": "suspension-bridge-seguin",
+      "name": "Cable suspension bridge (European pioneer)",
+      "date": "1822",
+      "century": "19th",
+      "category": "construction",
+      "innovator": "Marc Seguin",
+      "description": "Early European cable suspension bridge developments that influenced modern bridge engineering.",
+      "image": "/images/innovations/suspension-bridge-seguin.jpg"
+    },
+    {
+      "id": "fourier-series",
+      "name": "Fourier Series & Heat Theory",
+      "date": "1822",
+      "category": "other",
+      "innovator": "Joseph Fourier",
+      "description": "A method to represent functions as sums of sines and cosines, developed in the study of heat flow.",
+      "image": "/images/innovations/fourier-series.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "fourier-analysis",
+      "name": "Fourier analysis (series and transform)",
+      "date": "1822",
+      "century": "19th",
+      "category": "math",
+      "innovator": "Joseph Fourier",
+      "description": "Signal decomposition tools underpinning audio/image processing, telecom, MRI, compression, and more.",
+      "image": "/images/innovations/fourier-analysis.jpg"
+    },
+    {
+      "id": "fresnel-lens",
+      "name": "Fresnel lens",
+      "date": "1822",
+      "century": "19th",
+      "category": "technology",
+      "innovator": "Augustin-Jean Fresnel",
+      "description": "Optical lens design that revolutionized lighthouses and modern lighting/optics.",
+      "image": "/images/innovations/fresnel-lens.jpg"
+    },
+    {
+      "id": "braille",
+      "name": "Braille",
+      "date": "1824",
+      "century": "19th",
+      "category": "education",
+      "innovator": "Louis Braille",
+      "description": "Raised-dot tactile writing and reading system enabling literacy for blind and visually impaired people.",
+      "image": "/images/innovations/braille.jpg"
+    },
+    {
+      "id": "photography",
+      "name": "Photography",
+      "date": "1826",
+      "century": "19th",
+      "category": "media",
+      "innovator": "Nicéphore Niépce & Louis Daguerre",
+      "description": "Early photographic processes that revolutionized visual documentation and memory.",
+      "image": "/images/innovations/photography.jpg"
+    },
+    {
+      "id": "sewing-machine-thimonnier",
+      "name": "Practical Sewing Machine",
+      "date": "1830",
+      "category": "other",
+      "innovator": "Barthélemy Thimonnier",
+      "description": "One of the first practical machines for sewing, using a chain stitch mechanism.",
+      "image": "/images/innovations/sewing-machine-thimonnier.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "galois-group-theory",
+      "name": "Group theory foundations (Galois theory)",
+      "date": "1832",
+      "century": "19th",
+      "category": "math",
+      "innovator": "Évariste Galois",
+      "description": "Key foundations of modern algebra with downstream impact on cryptography and theoretical physics.",
+      "image": "/images/innovations/galois-group-theory.png"
+    },
+    {
+      "id": "coriolis-effect",
+      "name": "Coriolis Effect (Mathematical Description)",
+      "date": "1835",
+      "category": "other",
+      "innovator": "Gaspard-Gustave de Coriolis",
+      "description": "The mathematical description of apparent deflection in rotating reference frames.",
+      "image": "/images/innovations/coriolis-effect.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "daguerreotype",
+      "name": "Daguerreotype Process",
+      "date": "1839",
+      "category": "other",
+      "innovator": "Louis Daguerre",
+      "description": "An early photographic process producing highly detailed images on silvered copper plates.",
+      "image": "/images/innovations/daguerreotype.jpg",
+      "century": "19th"
+    },
+    {
+      "id": "aneroid-barometer",
+      "name": "Aneroid Barometer",
+      "date": "1843",
+      "category": "other",
+      "innovator": "Lucien Vidi",
+      "description": "A barometer using a sealed metal capsule instead of mercury to measure air pressure.",
+      "image": "/images/innovations/aneroid-barometer.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "pencil-sharpener-lassimonne",
+      "name": "Pencil sharpener",
+      "date": "1847",
+      "century": "19th",
+      "category": "consumer",
+      "innovator": "Bernard Lassimonne",
+      "description": "A notable early pencil sharpener design associated with France.",
+      "image": "/images/innovations/pencil-sharpener-lassimonne.jpg"
+    },
+    {
+      "id": "bourdon-tube-gauge",
+      "name": "Bourdon Tube Pressure Gauge",
+      "date": "1849",
+      "category": "other",
+      "innovator": "Eugène Bourdon",
+      "description": "A mechanical pressure gauge using a curved tube that straightens with pressure changes.",
+      "image": "/images/innovations/bourdon-tube-gauge.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "foucault-pendulum",
+      "name": "Foucault Pendulum",
+      "date": "1851",
+      "category": "other",
+      "innovator": "Léon Foucault",
+      "description": "A simple pendulum demonstration that makes Earth’s rotation visible in a room.",
+      "image": "/images/innovations/foucault-pendulum.jpg",
+      "century": "19th"
+    },
+    {
+      "id": "foucault-gyroscope",
+      "name": "Gyroscope (Naming & Key Demonstrations)",
+      "date": "1852",
+      "category": "other",
+      "innovator": "Léon Foucault",
+      "description": "Foucault coined the term 'gyroscope' and demonstrated its use for detecting Earth’s rotation.",
+      "image": "/images/innovations/foucault-gyroscope.png",
+      "century": "19th century"
+    },
+    {
+      "id": "aluminium-industrial",
+      "name": "Industrial Aluminum Production (Early Process Improvements)",
+      "date": "1854",
+      "category": "other",
+      "innovator": "Henri Étienne Sainte-Claire Deville",
+      "description": "Early industrial methods that made aluminum production more practical and affordable.",
+      "image": "/images/innovations/aluminium-industrial.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "foucault-currents",
+      "name": "Eddy Currents (Foucault Currents)",
+      "date": "1855",
+      "category": "other",
+      "innovator": "Léon Foucault",
+      "description": "Discovery and study of induced circulating currents in conductors exposed to changing magnetic fields.",
+      "image": "/images/innovations/foucault-currents.png",
+      "century": "19th century"
+    },
+    {
+      "id": "acoustic-phonograph-style-research",
+      "name": "Early Sound Recording & Acoustic Research (France’s Foundational Work)",
+      "date": "1857",
+      "category": "other",
+      "innovator": "Édouard-Léon Scott de Martinville",
+      "description": "The phonautograph recorded sound waves visually, a precursor to later playback recording.",
+      "image": "/images/innovations/acoustic-phonograph-style-research.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "foucault-glass-mirror-telescope",
+      "name": "Glass parabolic mirror telescope",
+      "date": "1857",
+      "century": "19th",
+      "category": "science",
+      "innovator": "Léon Foucault",
+      "description": "Glass mirror polishing methods enabling improved reflecting telescopes for astronomy.",
+      "image": "/images/innovations/foucault-glass-mirror-telescope.jpg"
+    },
+    {
+      "id": "absorption-refrigerator",
+      "name": "Absorption Refrigerator",
+      "date": "1858",
+      "category": "other",
+      "innovator": "Ferdinand Carré",
+      "description": "A refrigeration system using absorption cycles (ammonia/water) rather than mechanical compression.",
+      "image": "/images/innovations/absorption-refrigerator.webp",
+      "century": "19th century"
+    },
+    {
+      "id": "lead-acid-battery",
+      "name": "Lead–Acid Rechargeable Battery",
+      "date": "1859",
+      "category": "other",
+      "innovator": "Gaston Planté",
+      "description": "The first practical rechargeable battery, foundational for modern energy storage.",
+      "image": "/images/innovations/lead-acid-battery.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "pasteur-germ-theory",
+      "name": "Germ Theory (Experimental Proof & Popularization)",
+      "date": "1860",
+      "category": "other",
+      "innovator": "Louis Pasteur",
+      "description": "Experimental work demonstrating microorganisms’ role in fermentation and disease, validating germ theory.",
+      "image": "/images/innovations/pasteur-germ-theory.png",
+      "century": "19th century"
+    },
+    {
+      "id": "hydraulic-elevator",
+      "name": "Hydraulic Elevator",
+      "date": "1861",
+      "category": "other",
+      "innovator": "Léon Edoux",
+      "description": "A practical hydraulic lift system enabling safer vertical transport in buildings and industry.",
+      "image": "/images/innovations/hydraulic-elevator.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "pasteurization",
+      "name": "Pasteurization",
+      "date": "1862",
+      "century": "19th",
+      "category": "medicine",
+      "innovator": "Louis Pasteur",
+      "description": "Heat treatment that reduces pathogens in liquids, improving food safety and public health.",
+      "image": "/images/innovations/pasteurization.jpg"
+    },
+    {
+      "id": "modern-submarine-plongeur",
+      "name": "Modern submarine (non-human-powered propulsion)",
+      "date": "1863",
+      "century": "19th",
+      "category": "transport",
+      "innovator": "French Navy (Plongeur)",
+      "description": "The Plongeur is often cited as the first submarine not powered by human muscle, using compressed air propulsion.",
+      "image": "/images/innovations/modern-submarine-plongeur.jpg"
+    },
+    {
+      "id": "pedal-bicycle",
+      "name": "Pedal bicycle (rotary crank pedals)",
+      "date": "1864",
+      "century": "19th",
+      "category": "transport",
+      "innovator": "Pierre Michaux & Pierre Lallement",
+      "description": "A decisive step toward the modern bicycle: pedals with rotary cranks, enabling efficient, sustained cycling.",
+      "image": "/images/innovations/pedal-bicycle.jpg"
+    },
+    {
+      "id": "metallurgy-martin-furnace",
+      "name": "Siemens–Martin Open-Hearth Steel Process (French Role)",
+      "date": "1864",
+      "category": "other",
+      "innovator": "Pierre-Émile Martin",
+      "description": "A major steelmaking process enabling higher-quality steel production at scale.",
+      "image": "/images/innovations/metallurgy-martin-furnace.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "dry-cell-battery-leclanche",
+      "name": "Leclanché Cell (Dry Cell Ancestor)",
+      "date": "1866",
+      "category": "other",
+      "innovator": "Georges Leclanché",
+      "description": "A zinc–manganese dioxide battery design that became the basis for widely used 'dry' cells.",
+      "image": "/images/innovations/dry-cell-battery-leclanche.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "modern-motorcycle-perreaux",
+      "name": "Early Motorcycle",
+      "date": "1868",
+      "category": "other",
+      "innovator": "Louis-Guillaume Perreaux",
+      "description": "An early motorcycle concept mounting a small steam engine onto a bicycle frame.",
+      "image": "/images/innovations/modern-motorcycle-perreaux.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "margarine-mege",
+      "name": "Margarine",
+      "date": "1869",
+      "category": "other",
+      "innovator": "Hippolyte Mège-Mouriès",
+      "description": "A butter substitute originally developed to improve affordable nutrition.",
+      "image": "/images/innovations/margarine-mege.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "modern-shower-delabost",
+      "name": "Modern shower system",
+      "date": "1872",
+      "century": "19th",
+      "category": "infrastructure",
+      "innovator": "François Merry Delabost",
+      "description": "Early modern shower installation concept that helped spread hygienic bathing systems.",
+      "image": "/images/innovations/modern-shower-delabost.jpg"
+    },
+    {
+      "id": "praxinoscope",
+      "name": "Praxinoscope",
+      "date": "1877",
+      "category": "other",
+      "innovator": "Émile Reynaud",
+      "description": "An animation device improving on the zoetrope by using mirrors to produce smoother moving images.",
+      "image": "/images/innovations/praxinoscope.png",
+      "century": "19th century"
+    },
+    {
+      "id": "sterilization-chamber",
+      "name": "Modern Sterilization Practices (Heat Sterilization Expansion)",
+      "date": "1879",
+      "category": "other",
+      "innovator": "French medical community (Pasteurian school influence)",
+      "description": "Advances in sterilization methods driven by germ theory adoption in France.",
+      "image": "/images/innovations/sterilization-chamber.jpeg",
+      "century": "19th century"
+    },
+    {
+      "id": "antisepsis-surgery-france",
+      "name": "Antiseptic Surgery ",
+      "date": "1880",
+      "category": "other",
+      "innovator": "French surgeons influenced by Pasteur",
+      "description": "Early systematic antiseptic practices in surgery and hospitals, reducing infections dramatically.",
+      "image": "/images/innovations/antisepsis-surgery-france.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "chicken-cholera-vaccine",
+      "name": "Attenuated Vaccine Principle (Chicken Cholera)",
+      "date": "1880",
+      "category": "other",
+      "innovator": "Louis Pasteur and collaborators",
+      "description": "Demonstration that weakened (attenuated) pathogens can induce immunity, a cornerstone of vaccinology.",
+      "image": "/images/innovations/vaccin.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "vaccination-anthrax",
+      "name": "Anthrax Vaccine Demonstration",
+      "date": "1881",
+      "category": "other",
+      "innovator": "Louis Pasteur and collaborators",
+      "description": "Public demonstration of vaccination against anthrax, proving vaccines could protect livestock and people.",
+      "image": "/images/innovations/vaccin.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "vaccines-pasteurian",
+      "name": "Vaccines (Pasteurian revolution and successors)",
+      "category": "medicine",
+      "description": "French-led breakthroughs that shaped modern vaccinology.",
+      "milestones": [
+        {
+          "name": "Rabies vaccine (first successful post-exposure vaccination)",
+          "date": "1885",
+          "innovator": "Louis Pasteur & Émile Roux"
+        },
+        {
+          "name": "Vaccine adjuvant approaches",
+          "date": "1925",
+          "innovator": "Gaston Ramon"
+        }
+      ],
+      "date": "1885",
+      "century": "19th",
+      "innovator": "Multiple (French pioneers)",
+      "image": "/images/innovations/vaccin.jpg"
+    },
+    {
+      "id": "hair-dryer-godefroy",
+      "name": "Hair dryer",
+      "date": "1888",
+      "century": "19th",
+      "category": "consumer",
+      "innovator": "Alexandre-Ferdinand Godefroy",
+      "description": "Early hair-drying apparatus developed for salon use.",
+      "image": "/images/innovations/hair-dryer-godefroy.png"
+    },
+    {
+      "id": "pavilion-architecture-iron",
+      "name": "Modern Iron Architecture",
+      "date": "1889",
+      "category": "other",
+      "innovator": "Gustave Eiffel (engineering leadership)",
+      "description": "Iconic large-scale iron construction showcasing structural engineering and prefabrication.",
+      "image": "/images/innovations/pavilion-architecture-iron.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "helicopter-fr",
+      "name": "Helicopter",
+      "category": "aviation",
+      "description": "French milestones connected to vertical flight, from early experiments to modern electric rotorcraft efforts.",
+      "milestones": [
+        {
+          "name": "Early powered flight experiments (Éole)",
+          "date": "1890",
+          "innovator": "Clément Ader"
+        },
+        {
+          "name": "Modern French work on electric rotorcraft (electric helicopter concepts)",
+          "date": "2000",
+          "innovator": "French aerospace ecosystem"
+        }
+      ],
+      "date": "1890",
+      "century": "19th",
+      "innovator": "Multiple (French pioneers)",
+      "image": "/images/innovations/helicopter.jpg"
+    },
+    {
+      "id": "cholera-vaccine",
+      "name": "Cholera Vaccination (Early Modern Vaccinology)",
+      "date": "1892",
+      "category": "other",
+      "innovator": "Waldemar Haffkine (developed in Paris)",
+      "description": "Early large-scale vaccination approaches against cholera that advanced immunization practice.",
+      "image": "/images/innovations/vaccin.jpg",
+      "century": "19th"
+    },
+    {
+      "id": "reinforced-concrete",
+      "name": "Reinforced Concrete (Modern System)",
+      "date": "1892",
+      "category": "other",
+      "innovator": "François Hennebique",
+      "description": "A practical construction system combining steel reinforcement with concrete for strength in tension and compression.Systematized reinforced-concrete construction methods used worldwide in modern buildings and infrastructure.",
+      "image": "/images/innovations/reinforced-concrete.webp",
+      "century": "19th century"
+    },
+    {
+      "id": "vaccination-diphtheria-serum",
+      "name": "Diphtheria Antitoxin (Pasteur Institute Era)",
+      "date": "1894",
+      "category": "other",
+      "innovator": "Émile Roux and Pasteur Institute researchers",
+      "description": "Development and application of antitoxin therapy against diphtheria.",
+      "image": "/images/innovations/vaccin.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "cinema",
+      "name": "Cinema (public film projection)",
+      "date": "1895",
+      "century": "19th",
+      "category": "media",
+      "innovator": "Auguste & Louis Lumière",
+      "description": "The Cinématographe enabled recording and public projection of motion pictures, birthing cinema as a mass medium.",
+      "image": "/images/innovations/cinema.jpg"
+    },
+    {
+      "id": "poincare-topology",
+      "name": "Foundations of Topology (Poincaré’s Work)",
+      "date": "1895",
+      "category": "other",
+      "innovator": "Henri Poincaré",
+      "description": "Major foundational work in topology and dynamical systems, reshaping modern mathematics and physics.",
+      "image": "/images/innovations/poincare-topology.webp",
+      "century": "19th century"
+    },
+    {
+      "id": "narval-submarine",
+      "name": "Modern Submarine",
+      "date": "1896",
+      "category": "other",
+      "innovator": "Maxime Laubeuf",
+      "description": "A submarine design combining surface and submerged propulsion concepts that influenced later submarines.",
+      "image": "/images/innovations/narval-submarine.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "curie-radium",
+      "name": "Isolation of Radium & Polonium",
+      "date": "1898",
+      "category": "other",
+      "innovator": "Marie Curie & Pierre Curie",
+      "description": "Discovery and isolation of new radioactive elements, deepening the science of radioactivity.",
+      "image": "/images/innovations/curie-radium.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "auto-gearbox-direct-drive",
+      "name": "Direct-Drive Transmission Innovations (Early Automotive Gear Systems)",
+      "date": "1899",
+      "category": "other",
+      "innovator": "Louis Renault",
+      "description": "Early automotive transmission improvements that enhanced drivability and efficiency.",
+      "image": "/images/innovations/auto-gearbox-direct-drive.jpg",
+      "century": "19th century"
+    },
+    {
+      "id": "air-liquefaction",
+      "name": "Industrial Air Liquefaction",
+      "date": "1902",
+      "category": "other",
+      "innovator": "Georges Claude",
+      "description": "A process for industrial-scale liquefaction and separation of air into oxygen, nitrogen, and noble gases.",
+      "image": "/images/innovations/air-liquefaction.jpg",
+      "century": "20th century"
+    },
+    {
+      "id": "v8-engine",
+      "name": "V8 Engine",
+      "date": "1902",
+      "category": "other",
+      "innovator": "Léon Levavasseur",
+      "description": "An early V8 engine design influential in aviation and engine development.",
+      "image": "/images/innovations/v8-engine.jpg",
+      "century": "20th century"
+    },
+    {
+      "id": "laminated-glass",
+      "name": "Laminated Safety Glass",
+      "date": "1903",
+      "category": "other",
+      "innovator": "Édouard Bénédictus",
+      "description": "Safety glass that holds together when shattered via an interlayer.",
+      "image": "/images/innovations/laminated-glass.jpg",
+      "century": "20th century"
+    },
+    {
+      "id": "oxyacetylene-welding",
+      "name": "Oxyacetylene Welding",
+      "date": "1903",
+      "category": "other",
+      "innovator": "Edmond Fouché & Charles Picard",
+      "description": "A welding process using an oxygen-acetylene flame for high-temperature metal joining and cutting.",
+      "image": "/images/innovations/oxyacetylene-welding.webp",
+      "century": "20th century"
+    },
+    {
+      "id": "aileron-aircraft",
+      "name": "Aircraft Ailerons (Practical Implementation)",
+      "date": "1904",
+      "category": "other",
+      "innovator": "Robert Esnault-Pelterie",
+      "description": "Control surfaces enabling roll control for airplanes, improving stability and maneuverability.",
+      "image": "/images/innovations/aileron-aircraft.png",
+      "century": "20th century"
+    },
+    {
+      "id": "wristwatch-cartier",
+      "name": "Wristwatch (popularized luxury design)",
+      "date": "1904",
+      "century": "20th",
+      "category": "fashion",
+      "innovator": "Louis Cartier",
+      "description": "Early wristwatch designs that helped popularize wristwatches as practical timepieces.",
+      "image": "/images/innovations/wristwatch-cartier.webp"
+    },
+    {
+      "id": "photography-color-autochrome",
+      "name": "Autochrome Color Photography",
+      "date": "1907",
+      "category": "other",
+      "innovator": "Auguste & Louis Lumière",
+      "description": "The first commercially successful color photography process.",
+      "image": "/images/innovations/photography-color-autochrome.jpg",
+      "century": "20th century"
+    },
+    {
+      "id": "helicopter-cornu",
+      "name": "Early Helicopter Flight",
+      "date": "1907",
+      "category": "other",
+      "innovator": "Paul Cornu",
+      "description": "An early powered helicopter experiment that achieved brief lift-off with a pilot onboard.",
+      "image": "/images/innovations/helicopter-cornu.jpg",
+      "century": "20th"
+    },
+    {
+      "id": "aircraft-turbocharger-rateau",
+      "name": "Aircraft turbocharger",
+      "date": "1910",
+      "century": "20th",
+      "category": "aviation",
+      "innovator": "Auguste Rateau",
+      "description": "Early turbocharger work that improved aircraft engine performance at altitude.",
+      "image": "/images/innovations/aircraft-turbocharger-rateau.jpg"
+    },
+    {
+      "id": "sonar-langevin",
+      "name": "Sonar (active acoustics for submarine detection)",
+      "date": "1915",
+      "century": "20th",
+      "category": "technology",
+      "innovator": "Paul Langevin",
+      "description": "Early sonar principles and piezoelectric ultrasound work used for underwater detection.",
+      "image": "/images/innovations/sonar-langevin.jpg"
+    },
+    {
+      "id": "staged-rocket-damblanc",
+      "name": "Staged rocket concepts",
+      "date": "1930",
+      "century": "20th",
+      "category": "space",
+      "innovator": "Louis Damblanc",
+      "description": "Early French work discussing multi-stage rocket concepts, a core principle of modern space launch vehicles.",
+      "image": "/images/innovations/staged-rocket-damblanc.jpg"
+    },
+    {
+      "id": "polo-shirt-lacoste",
+      "name": "Polo shirt (modern tennis shirt)",
+      "date": "1933",
+      "century": "20th",
+      "category": "fashion",
+      "innovator": "René Lacoste",
+      "description": "Short-sleeved knit sports shirt design that became a global staple.",
+      "image": "/images/innovations/polo-shirt-lacoste.webp"
+    },
+    {
+      "id": "nuclear-chain-reaction-patent",
+      "name": "Nuclear chain reaction patent (pre-war)",
+      "date": "1939",
+      "century": "20th",
+      "category": "energy",
+      "innovator": "Frédéric Joliot-Curie, Hans von Halban & Lew Kowarski",
+      "description": "Pre-war patent work related to nuclear chain reactions, foundational to nuclear energy research.",
+      "image": "/images/innovations/nuclear-chain-reaction-patent.webp"
+    },
+    {
+      "id": "aqualung",
+      "name": "Aqualung (self-contained underwater breathing apparatus)",
+      "date": "1943",
+      "century": "20th",
+      "category": "technology",
+      "innovator": "Jacques-Yves Cousteau & Émile Gagnan",
+      "description": "Self-contained scuba system that transformed underwater exploration.",
+      "image": "/images/innovations/aqualung.jpg"
+    },
+    {
+      "id": "bikini",
+      "name": "Bikini",
+      "date": "1946",
+      "century": "20th",
+      "category": "fashion",
+      "innovator": "Louis Réard",
+      "description": "Two-piece swimsuit that became a global symbol of modern beach culture.",
+      "image": "/images/innovations/bikini.webp"
+    },
+    {
+      "id": "michelin-radial-tire",
+      "name": "Radial tire",
+      "date": "1946",
+      "century": "20th",
+      "category": "transport",
+      "innovator": "Michelin",
+      "description": "Tire construction innovation that improved safety, durability, and fuel efficiency.",
+      "image": "/images/innovations/michelin-radial-tire.jpg"
+    },
+    {
+      "id": "bezier-curves",
+      "name": "Bézier Curves (vectorial)",
+      "date": "1962",
+      "category": "other",
+      "innovator": "Pierre Bézier",
+      "description": "Mathematical curves used to model smooth shapes in computer-aided design and graphics.",
+      "image": "/images/innovations/bezier-curves.png",
+      "century": "20th"
+    },
+    {
+      "id": "k-way",
+      "name": "K-Way packable rain jacket",
+      "date": "1965",
+      "century": "20th",
+      "category": "consumer",
+      "innovator": "Léon-Claude Duhamel",
+      "description": "Foldable waterproof jacket that became an outdoor clothing icon.",
+      "image": "/images/innovations/k-way.webp"
+    },
+    {
+      "id": "digicode",
+      "name": "Digicode (electronic code lock)",
+      "date": "1970",
+      "century": "20th",
+      "category": "technology",
+      "innovator": "French inventors/industry",
+      "description": "Electronic keypad door-entry system widely used for controlled access.",
+      "image": "/images/innovations/digicode.jpg"
+    },
+    {
+      "id": "val-automatic-metro",
+      "name": "VAL automated metro system",
+      "date": "1970",
+      "century": "20th",
+      "category": "transport",
+      "innovator": "Matra / French engineering",
+      "description": "Driverless automatic light metro system deployed in multiple cities.",
+      "image": "/images/innovations/val-automatic-metro.jpg"
+    },
+    {
+      "id": "micral",
+      "name": "Micral (early commercial microcomputer)",
+      "date": "1973",
+      "century": "20th",
+      "category": "computing",
+      "innovator": "R2E / François Gernelle",
+      "description": "Often cited among the earliest commercial microcomputers, preceding many better-known personal computers.",
+      "image": "/images/innovations/micral.jpg"
+    },
+    {
+      "id": "smart-card",
+      "name": "Smart card",
+      "date": "1974",
+      "century": "20th",
+      "category": "computing",
+      "innovator": "Roland Moreno",
+      "description": "Integrated-circuit card enabling secure identification and payments, used worldwide (bank cards, SIMs, transit).",
+      "image": "/images/innovations/smart-card.jpg"
+    },
+    {
+      "id": "chip-and-pin-emv-france",
+      "name": "Chip-and-PIN Payment Adoption & Invention",
+      "date": "1980",
+      "category": "other",
+      "innovator": "French banks & card engineers",
+      "description": "Early large-scale adoption of chip-based bank cards and PIN authentication.",
+      "image": "/images/innovations/chip-and-pin-emv-france.webp",
+      "century": "20th century"
+    },
+    {
+      "id": "tgv-high-speed-rail",
+      "name": "TGV",
+      "date": "1981",
+      "century": "20th",
+      "category": "transport",
+      "innovator": "SNCF & Alstom",
+      "description": "French high-speed rail technology that made 300+ km/h passenger service commercially mainstream.",
+      "image": "/images/innovations/tgv-high-speed-rail.jpg"
+    },
+    {
+      "id": "minitel",
+      "name": "Minitel Online Service",
+      "date": "1982",
+      "category": "other",
+      "innovator": "France Télécom (PTT)",
+      "description": "A nationwide videotex network that brought online services to households before the modern web.",
+      "image": "/images/innovations/minitel.jpg",
+      "century": "20th"
+    },
+    {
+      "id": "convolutional-neural-nets-lecun",
+      "name": "Convolutional neural networks (CNNs) pioneering work",
+      "date": "1989",
+      "century": "20th",
+      "category": "computing",
+      "innovator": "Yann LeCun",
+      "description": "Pioneering work on convolutional neural networks that became a foundation of modern computer vision and deep learning.",
+      "image": "/images/innovations/convolutional-neural-nets-lecun.png"
+    },
+    {
+      "id": "carte-vitale-concept-smart-health",
+      "name": "Modern Smart Health Card Systems (France as Pioneer)",
+      "date": "1998",
+      "category": "other",
+      "innovator": "French health system & engineers",
+      "description": "Large-scale deployment of smart cards for healthcare administration and secure identity.",
+      "image": "/images/innovations/carte-vitale.jpg",
+      "century": "20th century"
+    },
+    {
+      "id": "full-face-transplant",
+      "name": "Full face transplant (complete)",
+      "date": "2010",
+      "century": "21st",
+      "category": "medicine",
+      "innovator": "French surgical team",
+      "description": "A milestone in reconstructive surgery: complete face transplantation performed by a French team.",
+      "image": "/images/innovations/full-face-transplant.jpg"
+    },
+    {
+      "id": "flyboard",
+      "name": "Flyboard",
+      "date": "2011",
+      "century": "21st",
+      "category": "recreation",
+      "innovator": "Franky Zapata",
+      "description": "Water-propelled board enabling high-speed hovering and acrobatic flight over water.",
+      "image": "/images/innovations/flyboard.jpg"
+    },
+    {
+      "id": "total-artificial-heart-carmat",
+      "name": "Total artificial heart (implant)",
+      "date": "2013",
+      "century": "21st",
+      "category": "medicine",
+      "innovator": "CARMAT / French medical teams",
+      "description": "A fully implantable artificial heart concept developed in France and implanted in patients.",
+      "image": "/images/innovations/total-artificial-heart-carmat.jpg"
+    }
+  ]

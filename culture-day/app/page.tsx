@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation"
 import { Quiz } from "@/components/quiz"
 import { DualQuiz } from "@/components/dual-quiz"
 import { CultureQuiz } from "@/components/culture-quiz"
+import { QuizSelection } from "@/components/QuizSelection"
 
 function QuizContent() {
   const searchParams = useSearchParams()
@@ -40,7 +41,7 @@ function QuizContent() {
         </div>
         {mode === "philosophers" && <Quiz />}
         {mode === "dual" && <DualQuiz />}
-        {mode === "culture" && <CultureQuiz />}
+        {mode === "culture" && <QuizSelection />}
       </div>
     </div>
   )

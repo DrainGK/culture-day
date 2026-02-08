@@ -5,7 +5,7 @@
     "category": "Mobility & Aerospace",
     "description": "European launch services actor tied to the Ariane rocket ecosystem and institutional/commercial missions.",
     "impact": "Supports Europe’s access-to-space capability and satellite deployment infrastructure.",
-    "image": "/images/ariane.jpg"
+    "image": "/images/today-innovations/ariane.jpg"
   },
   {
     "id": "airbus",
@@ -13,7 +13,7 @@
     "category": "Mobility & Aerospace",
     "description": "Aircraft manufacturer driving efficiency, aerodynamics, digital manufacturing, and future low-carbon aviation pathways.",
     "impact": "Shapes global aviation standards through large-scale R&D and industrial deployment.",
-    "image": "/images/airbus.jpg"
+    "image": "/images/today-innovations/airbus.jpg"
   },
   {
     "id": "dassault-systemes",
@@ -21,7 +21,7 @@
     "category": "Industry & Digital Engineering",
     "description": "3D design, simulation, and lifecycle platforms (CATIA, SOLIDWORKS) powering digital engineering and digital twins.",
     "impact": "Enables faster, less wasteful product development across manufacturing industries.",
-    "image": "/images/dassault.jpg"
+    "image": "/images/today-innovations/dassault-systemes.jpg"
   },
   {
     "id": "sanofi",
@@ -29,7 +29,7 @@
     "category": "Health & Biotech",
     "description": "Pharmaceutical company active in vaccines and specialty medicines, investing in next-generation therapeutics.",
     "impact": "Industrial-scale health innovation and production capacity for global public health.",
-    "image": "/images/sanofi.jpg"
+    "image": "/images/today-innovations/sanofi.jpg"
   },
   {
     "id": "lvmh",
@@ -37,7 +37,7 @@
     "category": "Consumer & Retail Innovation",
     "description": "Luxury group investing in sustainable materials, traceability, and digital retail experiences.",
     "impact": "Influences global consumer standards and supplier ecosystems through scale and brand power.",
-    "image": "/images/lvmh.jpg"
+    "image": "/images/today-innovations/lvmh.jpg"
   },
   {
     "id": "totalenergies",
@@ -45,7 +45,7 @@
     "category": "Energy & Climate",
     "description": "Energy company investing in renewables, power generation, and low-carbon projects alongside legacy operations.",
     "impact": "Large-scale capital allocation decisions affect the pace and shape of energy transition ecosystems.",
-    "image": "/images/totalenergies.jpg"
+    "image": "/images/today-innovations/totalenergies.png"
   },
   {
     "id": "thales",
@@ -53,7 +53,7 @@
     "category": "Defense & Security",
     "description": "Aerospace, defense, cybersecurity, and transport tech with emphasis on secure, reliable systems.",
     "impact": "Builds high-trust infrastructure where safety, security, and resilience are critical.",
-    "image": "/images/thales.jpg"
+    "image": "/images/today-innovations/thales.jpg"
   },
   {
     "id": "criteo",
@@ -61,7 +61,7 @@
     "category": "Platforms & Ecosystems",
     "description": "Commerce media and advertising tech adapting targeting and measurement to privacy-driven constraints.",
     "impact": "Represents the shift toward privacy-aware marketing infrastructure and retail media ecosystems.",
-    "image": "/images/criteo.jpg"
+    "image": "/images/today-innovations/criteo.png"
   },
   {
     "id": "blablacar",
@@ -69,7 +69,7 @@
     "category": "Platforms & Ecosystems",
     "description": "Shared mobility platform connecting drivers and passengers for long-distance travel.",
     "impact": "Scaled trust-based coordination, increasing vehicle occupancy and improving travel affordability.",
-    "image": "/images/blablacar.jpg"
+    "image": "/images/today-innovations/blablacar.jpg"
   },
   {
     "id": "doctolib",
@@ -77,7 +77,7 @@
     "category": "Health & Biotech",
     "description": "Healthcare scheduling and digital services platform used by medical professionals and patients across Europe.",
     "impact": "Reduces friction in access and coordination, a key lever in overloaded healthcare systems.",
-    "image": "/images/doctolib.jpg"
+    "image": "/images/today-innovations/doctolib.png"
   },
   {
     "id": "mirakl",
@@ -85,7 +85,7 @@
     "category": "Platforms & Ecosystems",
     "description": "Marketplace platform enabling retailers and brands to run third-party marketplaces.",
     "impact": "Accelerates platformization of commerce for large organizations.",
-    "image": "/images/mirakl.jpg"
+    "image": "/images/today-innovations/mirakl.png"
   },
   {
     "id": "alan",
@@ -93,7 +93,7 @@
     "category": "Health & Biotech",
     "description": "Digital health insurance and benefits platform focused on a simplified user experience and integrated services.",
     "impact": "Pushes insurers toward clearer UX and more service-oriented health journeys.",
-    "image": "/images/alan.jpg"
+    "image": "/images/today-innovations/alan.webp"
   },
   {
     "id": "cea",
@@ -101,7 +101,7 @@
     "category": "Research & Frontier Science",
     "description": "Major research organization spanning energy, digital tech, advanced engineering, and health sciences.",
     "impact": "A national-scale R&D engine feeding long-term scientific capability and industrial transfer.",
-    "image": "/images/cea.jpg"
+    "image": "/images/today-innovations/cea.png"
   },
   {
     "id": "iter",
@@ -109,7 +109,7 @@
     "category": "Research & Frontier Science",
     "description": "International fusion research project aiming to demonstrate key elements of practical fusion energy.",
     "impact": "One of the world’s most ambitious clean-energy science efforts hosted in France.",
-    "image": "/images/iter.jpg"
+    "image": "/images/today-innovations/iter.jpg"
   },
   {
     "id": "station-f",
@@ -117,7 +117,7 @@
     "category": "Platforms & Ecosystems",
     "description": "Large startup campus in Paris hosting founders, programs, investors, and corporate partners.",
     "impact": "Creates innovation density: faster company formation and ecosystem cross-pollination.",
-    "image": "/images/station-f.jpg"
+    "image": "/images/today-innovations/station-f.jpg"
   },
 
   {
@@ -126,7 +126,7 @@
     "category": "Mobility & Aerospace",
     "description": "Mobility and materials leader investing in sustainable materials, circularity, and next-gen performance products.",
     "impact": "Drives materials innovation with downstream effects on efficiency, safety, and environmental footprint.",
-    "image": "/images/michelin.jpg"
+    "image": "/images/today-innovations/michelin.jpg"
   },
   {
     "id": "puy-du-fou",
@@ -134,7 +134,7 @@
     "category": "Culture & Experience",
     "description": "Immersive entertainment model built on live shows, storytelling craft, and operational excellence.",
     "impact": "A blueprint for narrative-led experience design at industrial scale.",
-    "image": "/images/puydufou.jpg"
+    "image": "/images/today-innovations/puy-du-fou.jpg"
   },
 
   {
@@ -143,7 +143,7 @@
     "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
     "description": "AI lab building open-weight and enterprise-grade models plus tooling for real-world deployment.",
     "impact": "Strengthens Europe’s AI capability and expands options for controllable, deployable AI stacks.",
-    "image": "/images/mistral.jpg"
+    "image": "/images/today-innovations/mistral.png"
   },
   {
     "id": "hugging-face",
@@ -151,7 +151,7 @@
     "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
     "description": "Open-source AI platform and toolchain (models, datasets, libraries, deployment) used globally.",
     "impact": "Accelerates AI innovation by making powerful tooling accessible, reproducible, and community-driven.",
-    "image": "/images/huggingface.jpg"
+    "image": "/images/today-innovations/huggingface.png"
   },
   {
     "id": "ledger",
@@ -159,7 +159,7 @@
     "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
     "description": "Security company building hardware and software to secure digital assets and sensitive keys (self-custody infrastructure).",
     "impact": "Scaled consumer-grade secure hardware and strengthened ‘trust infrastructure’ for digital ownership.",
-    "image": "/images/ledger.jpg"
+    "image": "/images/today-innovations/ledger.jpg"
   },
   {
     "id": "ovhcloud",
@@ -167,7 +167,7 @@
     "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
     "description": "European cloud provider offering infrastructure with strong emphasis on control, cost, and sovereignty options.",
     "impact": "Supports regional infrastructure capacity and diversification beyond hyperscaler dependency.",
-    "image": "/images/ovhcloud.jpg"
+    "image": "/images/today-innovations/ovhcloud.png"
   },
   {
     "id": "atos-eviden",
@@ -175,7 +175,7 @@
     "category": "Deep Tech (AI/Cloud/Cyber/HPC)",
     "description": "Advanced computing actor across supercomputing, large-scale systems, and quantum-related initiatives.",
     "impact": "Strategic capability for scientific simulation and AI at scale (compute as national/industrial leverage).",
-    "image": "/images/atos-eviden.jpg"
+    "image": "/images/today-innovations/atos-eviden.jpg"
   },
 
   {
@@ -184,7 +184,7 @@
     "category": "Energy & Climate",
     "description": "Industrial gases leader developing hydrogen production and infrastructure for industry and mobility.",
     "impact": "Enables decarbonization pathways in hard-to-abate sectors through scalable industrial projects.",
-    "image": "/images/airliquide.jpg"
+    "image": "/images/today-innovations/airliquide.jpg"
   },
   {
     "id": "back-market",
@@ -192,7 +192,7 @@
     "category": "Consumer & Retail Innovation",
     "description": "Marketplace for refurbished electronics, promoting repairability and longer device lifecycles.",
     "impact": "Industrializes refurbished consumption and makes circular purchasing feel mainstream.",
-    "image": "/images/backmarket.jpg"
+    "image": "/images/today-innovations/backmarket.png"
   },
   {
     "id": "exotec",
@@ -200,7 +200,7 @@
     "category": "Industry & Digital Engineering",
     "description": "Warehouse robotics company providing high-density storage and order-fulfillment automation systems.",
     "impact": "Raises logistics productivity and resilience as supply chains face labor and volatility constraints.",
-    "image": "/images/exotec.jpg"
+    "image": "/images/today-innovations/exotec.jpg"
   },
   {
     "id": "qonto",
@@ -208,7 +208,7 @@
     "category": "Platforms & Ecosystems",
     "description": "Business finance platform for SMEs and freelancers (accounts, cards, invoicing, expense workflows, integrations).",
     "impact": "Reduces admin overhead and improves operational visibility for small organizations.",
-    "image": "/images/qonto.jpg"
+    "image": "/images/today-innovations/qonto.png"
   },
   {
     "id": "devialet",
@@ -216,7 +216,7 @@
     "category": "Consumer & Retail Innovation",
     "description": "Audio engineering and premium hardware company combining acoustics, design, and connected products.",
     "impact": "Demonstrates global competitiveness in high-end consumer hardware through engineering-led differentiation.",
-    "image": "/images/devialet.jpg"
+    "image": "/images/today-innovations/devialet.png"
   },
 
   {
@@ -225,6 +225,6 @@
     "category": "Defense & Security",
     "description": "French hypersonic glide demonstrator program with defense, industrial, and research partners.",
     "impact": "Builds sovereign capability in hypersonic systems (guidance, materials, flight regimes) and strategic deterrence tech.",
-    "image": "/images/vmax.jpg"
+    "image": "/images/today-innovations/vmax.webp"
   }
 ]

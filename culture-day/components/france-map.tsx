@@ -23,17 +23,17 @@ interface FranceMapProps {
 // French regions with their approximate map positions (percentage based)
 const regionPositions: Record<string, { x: number; y: number }> = {
   "Ile-de-France": { x: 52, y: 30 },
-  "Nouvelle-Aquitaine": { x: 40, y: 75 },
+  "Nouvelle-Aquitaine": { x: 40, y: 70 },
   "Auvergne-Rhone-Alpes": { x: 65, y: 70 },
-  "Bretagne": { x: 18, y: 32 },
-  "Normandie": { x: 35, y: 22 },
-  "Provence-Alpes-Cote-dAzur": { x: 72, y: 75 },
-  "Occitanie": { x: 45, y: 78 },
+  "Bretagne": { x: 13, y: 38 },
+  "Normandie": { x: 35, y: 30 },
+  "Provence-Alpes-Cote-dAzur": { x: 72, y: 85 },
+  "Occitanie": { x: 47, y: 90 },
   "Hauts-de-France": { x: 52, y: 12 },
-  "Grand-Est": { x: 75, y: 25 },
-  "Pays-de-la-Loire": { x: 25, y: 42 },
-  "Centre-Val-de-Loire": { x: 42, y: 42 },
-  "Bourgogne-Franche-Comte": { x: 62, y: 42 },
+  "Grand-Est": { x: 72, y: 35 },
+  "Pays-de-la-Loire": { x: 30, y: 45 },
+  "Centre-Val-de-Loire": { x: 45, y: 45 },
+  "Bourgogne-Franche-Comte": { x: 65, y: 50 },
 }
 
 /**

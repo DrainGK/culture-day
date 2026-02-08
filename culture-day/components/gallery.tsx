@@ -82,7 +82,7 @@ export function Gallery<T extends GalleryItem>({ items, type }: GalleryProps<T>)
     <>
       <div className="flex flex-wrap gap-6 justify-center">
         {items.map((item) => (
-          <div key={item.id} className="w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)]">
+          <div key={item.id} className="w-full sm:w-[calc(50%-12px)] lg:w-[calc(25%-16px)]">
             <GalleryCard
               id={item.id}
               name={item.name}

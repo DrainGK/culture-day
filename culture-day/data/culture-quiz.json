@@ -1,0 +1,1199 @@
+{
+  "quiz": [
+    {
+      "title": "The Kings of France",
+      "id": 174246835416837,
+      "category": "history",
+      "img": "",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "question": "Which King of France, crowned in 987, is considered the founder of the Capetian dynasty?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Hugh Capet",
+              "correct": true
+            },
+            {
+              "text": "Philip II Augustus",
+              "correct": false
+            },
+            {
+              "text": "Charlemagne",
+              "correct": false
+            },
+            {
+              "text": "Louis IX",
+              "correct": false
+            }
+          ],
+          "note": "By ascending the throne in 987, Hugh Capet inaugurated a new line of monarchs that would rule France for more than eight centuries."
+        },
+        {
+          "question": "Which King of France, nicknamed the “Sun King,” reigned from 1643 to 1715?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Louis XIV",
+              "correct": true
+            },
+            {
+              "text": "Francis I",
+              "correct": false
+            },
+            {
+              "text": "Henry IV",
+              "correct": false
+            },
+            {
+              "text": "Charles V",
+              "correct": false
+            }
+          ],
+          "note": "Louis XIV centralized power, built Versailles, and supported the arts, ensuring France’s cultural influence across Europe."
+        },
+        {
+          "question": "Which King of France, known for signing the Edict of Nantes in 1598, brought an end to the French Wars of Religion?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Henry IV",
+              "correct": true
+            },
+            {
+              "text": "Louis XIII",
+              "correct": false
+            },
+            {
+              "text": "Charles IX",
+              "correct": false
+            },
+            {
+              "text": "Francis II",
+              "correct": false
+            }
+          ],
+          "note": "Henry IV granted Protestants a measure of tolerance, easing internal religious tensions."
+        },
+        {
+          "question": "Which medieval king, canonized in 1297, is often seen as the embodiment of the ideal Christian king?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Louis IX (Saint Louis)",
+              "correct": true
+            },
+            {
+              "text": "Philip IV the Fair",
+              "correct": false
+            },
+            {
+              "text": "Louis VII",
+              "correct": false
+            },
+            {
+              "text": "Robert II the Pious",
+              "correct": false
+            }
+          ],
+          "note": "Louis IX led crusades, reformed the justice system, and built religious monuments, symbolizing a pious and just monarch."
+        },
+        {
+          "question": "Which King of France was executed in 1793, marking the end of absolute monarchy?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Louis XVI",
+              "correct": true
+            },
+            {
+              "text": "Louis XV",
+              "correct": false
+            },
+            {
+              "text": "Charles X",
+              "correct": false
+            },
+            {
+              "text": "Louis XVIII",
+              "correct": false
+            }
+          ],
+          "note": "Overthrown by the Revolution, Louis XVI symbolizes the fall of the Ancien Régime and the start of a new political era."
+        },
+        {
+          "question": "Which king restored the monarchy after Napoleon’s fall, with a constitutional charter that limited his powers?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Louis XVIII",
+              "correct": true
+            },
+            {
+              "text": "Charles X",
+              "correct": false
+            },
+            {
+              "text": "Louis-Philippe I",
+              "correct": false
+            },
+            {
+              "text": "Louis XVII",
+              "correct": false
+            }
+          ],
+          "note": "Louis XVIII tried to reconcile the revolutionary legacy with monarchical tradition, ushering in the Bourbon Restoration."
+        },
+        {
+          "question": "Which king built the Sainte-Chapelle in Paris in the 13th century to house the relics of the Passion?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Louis IX (Saint Louis)",
+              "correct": true
+            },
+            {
+              "text": "Philip II Augustus",
+              "correct": false
+            },
+            {
+              "text": "Louis VIII",
+              "correct": false
+            },
+            {
+              "text": "Louis VI",
+              "correct": false
+            }
+          ],
+          "note": "The Sainte-Chapelle reflects the prestige of the Capetian kingdom and the king’s devotion."
+        },
+        {
+          "question": "Which king, supported by Joan of Arc, managed to restore royal authority during the Hundred Years’ War?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Charles VII",
+              "correct": true
+            },
+            {
+              "text": "John II the Good",
+              "correct": false
+            },
+            {
+              "text": "Charles VI",
+              "correct": false
+            },
+            {
+              "text": "Philip VI",
+              "correct": false
+            }
+          ],
+          "note": "Charles VII reconquered territory from the English, consolidating royal power and ending a long period of turmoil."
+        },
+        {
+          "question": "Which young king, son of Henry II and Catherine de’ Medici, died at age 16, leaving an unstable kingdom?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Francis II",
+              "correct": true
+            },
+            {
+              "text": "Charles IX",
+              "correct": false
+            },
+            {
+              "text": "Henry III",
+              "correct": false
+            },
+            {
+              "text": "Francis I",
+              "correct": false
+            }
+          ],
+          "note": "The premature death of Francis II (1559–1560) left France in the grip of the Wars of Religion."
+        },
+        {
+          "question": "Which king, who succeeded Louis XIV, failed to reform finances and administration in depth before the Revolution?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Louis XV",
+              "correct": true
+            },
+            {
+              "text": "Louis XIII",
+              "correct": false
+            },
+            {
+              "text": "Henry III",
+              "correct": false
+            },
+            {
+              "text": "Louis-Philippe I",
+              "correct": false
+            }
+          ],
+          "note": "Despite a long reign, Louis XV could not resolve chronic financial problems, unintentionally paving the way for the monarchy’s collapse."
+        }
+      ]
+    },
+    {
+      "title": "Heroes of French Literature",
+      "id": 2316321635841351,
+      "category": "literature",
+      "difficulty": "easy",
+      "img": "",
+      "questions": [
+        {
+          "question": "Which hero, a former convict, embodies redemption and kindness in Victor Hugo’s 'Les Misérables'?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Jean Valjean",
+              "correct": true
+            },
+            {
+              "text": "Javert",
+              "correct": false
+            },
+            {
+              "text": "Marius Pontmercy",
+              "correct": false
+            },
+            {
+              "text": "Gavroche",
+              "correct": false
+            }
+          ],
+          "note": "Jean Valjean, once sentenced for stealing bread, symbolizes moral transformation and compassion in 19th-century society."
+        },
+        {
+          "question": "Which young Gascon hero from Alexandre Dumas pursues glory and honor alongside Athos, Porthos, and Aramis?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "d’Artagnan",
+              "correct": true
+            },
+            {
+              "text": "Cyrano de Bergerac",
+              "correct": false
+            },
+            {
+              "text": "Edmond Dantès",
+              "correct": false
+            },
+            {
+              "text": "Candide",
+              "correct": false
+            }
+          ],
+          "note": "In 'The Three Musketeers' (1844), d’Artagnan embodies boldness, courage, and honor, hallmarks of the swashbuckling hero."
+        },
+        {
+          "question": "Which character, famous for his nose and wit, is the hero of Edmond Rostand’s play 'Cyrano de Bergerac' (1897)?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Cyrano de Bergerac",
+              "correct": true
+            },
+            {
+              "text": "Rodrigue (Le Cid)",
+              "correct": false
+            },
+            {
+              "text": "Jean Valjean",
+              "correct": false
+            },
+            {
+              "text": "Figaro",
+              "correct": false
+            }
+          ],
+          "note": "Cyrano, a poet and swordsman, is a romantic hero ready to sacrifice, valuing honor and beautiful words over fulfilling his love."
+        },
+        {
+          "question": "Which hero created by Voltaire travels the world hoping to learn whether we live in 'the best of all possible worlds'?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Candide",
+              "correct": true
+            },
+            {
+              "text": "Gulliver",
+              "correct": false
+            },
+            {
+              "text": "Pantagruel",
+              "correct": false
+            },
+            {
+              "text": "Bel-Ami",
+              "correct": false
+            }
+          ],
+          "note": "'Candide' (1759) is a philosophical tale criticizing blind optimism; Candide embodies innocence confronted with the harshness of reality."
+        },
+        {
+          "question": "In Alexandre Dumas’ 'The Count of Monte Cristo', which hero, unjustly imprisoned, orchestrates a meticulous revenge against his enemies?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Edmond Dantès",
+              "correct": true
+            },
+            {
+              "text": "Arsène Lupin",
+              "correct": false
+            },
+            {
+              "text": "d’Artagnan",
+              "correct": false
+            },
+            {
+              "text": "Félix de Vandenesse",
+              "correct": false
+            }
+          ],
+          "note": "Edmond Dantès symbolizes resilience and the thirst for justice in an epic that questions morality, guilt, and forgiveness."
+        },
+        {
+          "question": "Which character from Stendhal, torn between social ambition and romantic passion, is a complex hero in 'The Red and the Black'?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Julien Sorel",
+              "correct": true
+            },
+            {
+              "text": "Lucien de Rubempré",
+              "correct": false
+            },
+            {
+              "text": "Fabrice del Dongo",
+              "correct": false
+            },
+            {
+              "text": "Frédéric Moreau",
+              "correct": false
+            }
+          ],
+          "note": "Julien Sorel reflects the tension between personal ambition and the moral and social constraints of the Bourbon Restoration."
+        },
+        {
+          "question": "Which humanist giant, hero of François Rabelais’ stories, represents an ideal of knowledge, freedom, and hearty appetite?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Pantagruel",
+              "correct": true
+            },
+            {
+              "text": "Gargantua",
+              "correct": false
+            },
+            {
+              "text": "Grandgousier",
+              "correct": false
+            },
+            {
+              "text": "Panurge",
+              "correct": false
+            }
+          ],
+          "note": "In 'Gargantua' and 'Pantagruel' (16th century), Rabelais offers a giant hero celebrating learning, feasting, and criticism of dogma."
+        },
+        {
+          "question": "Which hero, deformed yet deeply moving, the bell-ringer of Notre-Dame de Paris, represents a tragic and solitary ideal?",
+          "difficulty": "very_hard",
+          "options": [
+            {
+              "text": "Quasimodo",
+              "correct": true
+            },
+            {
+              "text": "Phoebus",
+              "correct": false
+            },
+            {
+              "text": "Gringoire",
+              "correct": false
+            },
+            {
+              "text": "Mauprat",
+              "correct": false
+            }
+          ],
+          "note": "Quasimodo, in Victor Hugo’s novel (1831), is a deformed anti-hero who embodies sensitivity hidden beneath a monstrous appearance."
+        },
+        {
+          "question": "Which little hero, created by Antoine de Saint-Exupéry, travels from planet to planet to understand human nature and friendship?",
+          "difficulty": "very_hard",
+          "options": [
+            {
+              "text": "The Little Prince",
+              "correct": true
+            },
+            {
+              "text": "Micromégas",
+              "correct": false
+            },
+            {
+              "text": "The Great Meaulnes",
+              "correct": false
+            },
+            {
+              "text": "Poil de Carotte",
+              "correct": false
+            }
+          ],
+          "note": "The Little Prince (1943) is a symbolic hero and spokesperson for a universal philosophy about love, childhood, and responsibility."
+        },
+        {
+          "question": "In medieval French literature, which Round Table knight celebrated by Chrétien de Troyes embodies the chivalric ideal?",
+          "difficulty": "very_hard",
+          "options": [
+            {
+              "text": "Lancelot du Lac",
+              "correct": true
+            },
+            {
+              "text": "Perceval",
+              "correct": false
+            },
+            {
+              "text": "Gawain",
+              "correct": false
+            },
+            {
+              "text": "Tristan",
+              "correct": false
+            }
+          ],
+          "note": "Lancelot, a courtly and valiant hero, symbolizes impossible love, loyalty, and the quest for spiritual perfection in the Matter of Britain."
+        }
+      ]
+    },
+    {
+      "title": "Sport in France",
+      "id": 987654321,
+      "category": "sport",
+      "img": "",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "question": "Which French basketball player, a four-time NBA champion with the San Antonio Spurs, was named Finals MVP in 2007?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Tony Parker",
+              "correct": true
+            },
+            {
+              "text": "Nicolas Batum",
+              "correct": false
+            },
+            {
+              "text": "Boris Diaw",
+              "correct": false
+            },
+            {
+              "text": "Evan Fournier",
+              "correct": false
+            }
+          ],
+          "note": "Tony Parker (born 1982) made history for French and international basketball by becoming the first French player named NBA Finals MVP."
+        },
+        {
+          "question": "Which French swimmer won the 400m freestyle at the Athens Olympics in 2004?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Laure Manaudou",
+              "correct": true
+            },
+            {
+              "text": "Camille Muffat",
+              "correct": false
+            },
+            {
+              "text": "Charlotte Bonnet",
+              "correct": false
+            },
+            {
+              "text": "Frédérique Jossinet",
+              "correct": false
+            }
+          ],
+          "note": "Laure Manaudou was the first French female swimmer to win an Olympic title, opening a new era for French swimming."
+        },
+        {
+          "question": "Which French biathlete, a five-time Olympic champion, is one of the greatest champions in the sport’s history?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Martin Fourcade",
+              "correct": true
+            },
+            {
+              "text": "Raphaël Poirée",
+              "correct": false
+            },
+            {
+              "text": "Quentin Fillon Maillet",
+              "correct": false
+            },
+            {
+              "text": "Simon Fourcade",
+              "correct": false
+            }
+          ],
+          "note": "Martin Fourcade dominated world biathlon for nearly a decade, winning the overall World Cup (Crystal Globe) 13 times."
+        },
+        {
+          "question": "Which French tennis player, winner of Roland-Garros in 1983, is the last Frenchman to win the men’s singles title there?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Yannick Noah",
+              "correct": true
+            },
+            {
+              "text": "Henri Leconte",
+              "correct": false
+            },
+            {
+              "text": "Guy Forget",
+              "correct": false
+            },
+            {
+              "text": "Jo-Wilfried Tsonga",
+              "correct": false
+            }
+          ],
+          "note": "Yannick Noah remains the last Frenchman to lift the Coupe des Mousquetaires, defeating Mats Wilander in the final."
+        },
+        {
+          "question": "Which French pole vaulter broke the indoor world record with a 6.16m jump in 2014?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Renaud Lavillenie",
+              "correct": true
+            },
+            {
+              "text": "Jean Galfione",
+              "correct": false
+            },
+            {
+              "text": "Armand Duplantis",
+              "correct": false
+            },
+            {
+              "text": "Thierry Vigneron",
+              "correct": false
+            }
+          ],
+          "note": "By clearing 6.16m in Donetsk, Renaud Lavillenie broke the legendary record held for more than 20 years by Sergey Bubka."
+        },
+        {
+          "question": "Which French judoka, a ten-time world champion, is considered one of the greatest judokas of all time?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Teddy Riner",
+              "correct": true
+            },
+            {
+              "text": "David Douillet",
+              "correct": false
+            },
+            {
+              "text": "Clarisse Agbegnenou",
+              "correct": false
+            },
+            {
+              "text": "Ugo Legrand",
+              "correct": false
+            }
+          ],
+          "note": "Teddy Riner has amassed world and Olympic medals, becoming one of the greatest legends in international judo."
+        },
+        {
+          "question": "Which French driver, a nine-time WRC Rally World Champion, holds an unmatched record in motorsport history?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Sébastien Loeb",
+              "correct": true
+            },
+            {
+              "text": "Sébastien Ogier",
+              "correct": false
+            },
+            {
+              "text": "Didier Auriol",
+              "correct": false
+            },
+            {
+              "text": "Alain Prost",
+              "correct": false
+            }
+          ],
+          "note": "Sébastien Loeb and his co-driver Daniel Elena dominated the discipline, winning nine consecutive titles from 2004 to 2012."
+        },
+        {
+          "question": "Which rugby player, named World Player of the Year in 2021, is a key figure in the resurgence of the French national team?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Antoine Dupont",
+              "correct": true
+            },
+            {
+              "text": "Frédéric Michalak",
+              "correct": false
+            },
+            {
+              "text": "Sébastien Chabal",
+              "correct": false
+            },
+            {
+              "text": "Morgan Parra",
+              "correct": false
+            }
+          ],
+          "note": "Nicknamed “le minot” early in his career at Castres, Antoine Dupont became a leader for both France and Toulouse."
+        },
+        {
+          "question": "Which French cyclist, nicknamed “The Badger,” won the Tour de France five times between 1978 and 1985?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Bernard Hinault",
+              "correct": true
+            },
+            {
+              "text": "Laurent Fignon",
+              "correct": false
+            },
+            {
+              "text": "Raymond Poulidor",
+              "correct": false
+            },
+            {
+              "text": "Jacques Anquetil",
+              "correct": false
+            }
+          ],
+          "note": "Bernard Hinault is among the rare riders to have won all three Grand Tours (France, Italy, Spain), leaving a major mark on French cycling history."
+        },
+        {
+          "question": "Which French handball player, a three-time Olympic champion (2008, 2012, 2020) and four-time world champion, is often considered one of the best players in history?",
+          "difficulty": "very_hard",
+          "options": [
+            {
+              "text": "Nikola Karabatic",
+              "correct": true
+            },
+            {
+              "text": "Luc Abalo",
+              "correct": false
+            },
+            {
+              "text": "Daniel Narcisse",
+              "correct": false
+            },
+            {
+              "text": "Guillaume Gille",
+              "correct": false
+            }
+          ],
+          "note": "Nikola Karabatic was a key figure of “Les Experts” (the nickname of the French national handball team) during their many successes."
+        }
+      ]
+    },
+    {
+      "title": "France in the Middle Ages",
+      "id": 123456789,
+      "category": "history",
+      "img": "",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "question": "Which Frankish king, crowned Emperor of the West in Rome in the year 800, consolidated a vast empire covering much of Europe?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Charlemagne",
+              "correct": true
+            },
+            {
+              "text": "Clovis",
+              "correct": false
+            },
+            {
+              "text": "Pepin the Short",
+              "correct": false
+            },
+            {
+              "text": "Carloman",
+              "correct": false
+            }
+          ],
+          "note": "Charlemagne (768–814) unified an immense territory and revived the arts, education, and culture in what would be called the Carolingian Renaissance."
+        },
+        {
+          "question": "Which treaty in 843 divided the Carolingian Empire among Charlemagne’s grandsons and laid the groundwork for future European nations?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Treaty of Verdun",
+              "correct": true
+            },
+            {
+              "text": "Treaty of Troyes",
+              "correct": false
+            },
+            {
+              "text": "Treaty of Paris",
+              "correct": false
+            },
+            {
+              "text": "Treaty of Cambrai",
+              "correct": false
+            }
+          ],
+          "note": "Signed between Lothair, Louis the German, and Charles the Bald, this treaty marked the start of the fragmentation of the Carolingian Empire."
+        },
+        {
+          "question": "Which Capetian king, nicknamed the “Iron King,” waged a fierce struggle against the Knights Templar and forced the papacy to settle in Avignon?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Philip IV the Fair",
+              "correct": true
+            },
+            {
+              "text": "Louis IX (Saint Louis)",
+              "correct": false
+            },
+            {
+              "text": "Philip II Augustus",
+              "correct": false
+            },
+            {
+              "text": "Charles V the Wise",
+              "correct": false
+            }
+          ],
+          "note": "Philip IV the Fair (1285–1314) dismantled the Order of the Temple and secured the papacy’s move to Avignon, triggering the Avignon Papacy (1309–1377)."
+        },
+        {
+          "question": "Which medieval king, crowned in 1226, is famous for his piety, judicial reforms, and the construction of the Sainte-Chapelle?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Louis IX (Saint Louis)",
+              "correct": true
+            },
+            {
+              "text": "Louis VIII",
+              "correct": false
+            },
+            {
+              "text": "Philip II Augustus",
+              "correct": false
+            },
+            {
+              "text": "Louis VII",
+              "correct": false
+            }
+          ],
+          "note": "Saint Louis was canonized in 1297. He also led two crusades (1248 and 1270) and embodied the image of the ideal Christian king."
+        },
+        {
+          "question": "Which battle in 1415 was a heavy defeat for French chivalry during the Hundred Years’ War?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Agincourt",
+              "correct": true
+            },
+            {
+              "text": "Bouvines",
+              "correct": false
+            },
+            {
+              "text": "Hastings",
+              "correct": false
+            },
+            {
+              "text": "Poitiers",
+              "correct": false
+            }
+          ],
+          "note": "The Battle of Agincourt (25 October 1415) was one of France’s greatest military disasters, opening the way for English advances."
+        },
+        {
+          "question": "Which French national heroine, born in Domrémy around 1412, led the French army to lift the siege of Orléans and enabled Charles VII’s coronation in Reims?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Joan of Arc",
+              "correct": true
+            },
+            {
+              "text": "Eleanor of Aquitaine",
+              "correct": false
+            },
+            {
+              "text": "Isabella of France",
+              "correct": false
+            },
+            {
+              "text": "Catherine de’ Medici",
+              "correct": false
+            }
+          ],
+          "note": "Nicknamed “the Maid,” Joan of Arc was burned at the stake in 1431, but her military and symbolic role helped shape the end of the Hundred Years’ War."
+        },
+        {
+          "question": "Which dynasty, founded by Hugh Capet in 987, ruled France until 1328?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "The Capetians",
+              "correct": true
+            },
+            {
+              "text": "The Valois",
+              "correct": false
+            },
+            {
+              "text": "The Bourbons",
+              "correct": false
+            },
+            {
+              "text": "The Merovingians",
+              "correct": false
+            }
+          ],
+          "note": "The Capetian dynasty continued through its cadet branches (Valois, Bourbons), forming the longest royal lineage in French history."
+        },
+        {
+          "question": "Which great duchess, ruler of an immense province, married Louis VII of France and then Henry II Plantagenet of England, playing a central role in Franco-English conflicts?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Eleanor of Aquitaine",
+              "correct": true
+            },
+            {
+              "text": "Isabeau of Bavaria",
+              "correct": false
+            },
+            {
+              "text": "Blanche of Castile",
+              "correct": false
+            },
+            {
+              "text": "Marguerite of Provence",
+              "correct": false
+            }
+          ],
+          "note": "Her marriage to Henry II, King of England, transferred Aquitaine to the English crown, intensifying tensions that would lead to the Hundred Years’ War."
+        },
+        {
+          "question": "Which Duke of Burgundy, nicknamed “the Bold,” strengthened his duchy’s autonomy during the Hundred Years’ War and was a major player in French politics?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Philip the Bold",
+              "correct": true
+            },
+            {
+              "text": "John the Fearless",
+              "correct": false
+            },
+            {
+              "text": "Philip the Good",
+              "correct": false
+            },
+            {
+              "text": "Charles the Bold",
+              "correct": false
+            }
+          ],
+          "note": "Son of King John II of France, Philip the Bold (1363–1404) was the first great Valois Duke of Burgundy, building a power that rivaled the French crown."
+        },
+        {
+          "question": "Which French knight, a leading commander of the First Crusade, became Advocate of the Holy Sepulchre after the capture of Jerusalem in 1099?",
+          "difficulty": "very_hard",
+          "options": [
+            {
+              "text": "Godfrey of Bouillon",
+              "correct": true
+            },
+            {
+              "text": "Hugues de Payns",
+              "correct": false
+            },
+            {
+              "text": "Baldwin IV of Jerusalem",
+              "correct": false
+            },
+            {
+              "text": "Raymond of Saint-Gilles",
+              "correct": false
+            }
+          ],
+          "note": "Godfrey of Bouillon (c. 1060–1100) refused to be crowned King of Jerusalem, preferring the title of Advocate (protector) of the Holy Sepulchre."
+        }
+      ]
+    },
+    {
+      "title": "Science in France",
+      "id": 999888777,
+      "category": "science",
+      "img": "",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "question": "Which French chemist, author of the 1789 'Elementary Treatise of Chemistry', is considered the “father of modern chemistry”?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Antoine Lavoisier",
+              "correct": true
+            },
+            {
+              "text": "Robert Boyle",
+              "correct": false
+            },
+            {
+              "text": "Joseph Priestley",
+              "correct": false
+            },
+            {
+              "text": "Dmitri Mendeleev",
+              "correct": false
+            }
+          ],
+          "note": "Antoine Lavoisier (1743–1794) identified and named oxygen, helped found modern chemistry, and introduced the idea of conservation of mass."
+        },
+        {
+          "question": "Which French physicist discovered the natural radioactivity of uranium in 1896, paving the way for Pierre and Marie Curie’s work?",
+          "difficulty": "easy",
+          "options": [
+            {
+              "text": "Henri Becquerel",
+              "correct": true
+            },
+            {
+              "text": "Paul Langevin",
+              "correct": false
+            },
+            {
+              "text": "Claude Bernard",
+              "correct": false
+            },
+            {
+              "text": "Louis Néel",
+              "correct": false
+            }
+          ],
+          "note": "Henri Becquerel (1852–1908) received the Nobel Prize in Physics (1903) with Pierre and Marie Curie for discoveries on radioactivity."
+        },
+        {
+          "question": "Which French mathematician and physicist gave his name to the SI unit of electric current?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "André-Marie Ampère",
+              "correct": true
+            },
+            {
+              "text": "Georg Ohm",
+              "correct": false
+            },
+            {
+              "text": "James Clerk Maxwell",
+              "correct": false
+            },
+            {
+              "text": "Michael Faraday",
+              "correct": false
+            }
+          ],
+          "note": "André-Marie Ampère (1775–1836) was a founder of electromagnetism. The ampere (A) is the unit of electric current."
+        },
+        {
+          "question": "Which scientist, a two-time Nobel laureate (Physics and Chemistry), worked on radioactivity and discovered polonium and radium?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Marie Curie",
+              "correct": true
+            },
+            {
+              "text": "Irène Joliot-Curie",
+              "correct": false
+            },
+            {
+              "text": "Rosalind Franklin",
+              "correct": false
+            },
+            {
+              "text": "Lise Meitner",
+              "correct": false
+            }
+          ],
+          "note": "Marie Curie (1867–1934) was the first woman to win a Nobel Prize and the only person to win two in two different scientific fields."
+        },
+        {
+          "question": "Which French mathematician and physicist, author of the 'Analytical Theory of Heat' (1822), also gave his name to a famous transform in mathematics?",
+          "difficulty": "medium",
+          "options": [
+            {
+              "text": "Joseph Fourier",
+              "correct": true
+            },
+            {
+              "text": "Joseph-Louis Lagrange",
+              "correct": false
+            },
+            {
+              "text": "Pierre-Simon Laplace",
+              "correct": false
+            },
+            {
+              "text": "Évariste Galois",
+              "correct": false
+            }
+          ],
+          "note": "Fourier series and the Fourier transform are fundamental tools in applied mathematics and physics."
+        },
+        {
+          "question": "Which French naturalist proposed the inheritance of acquired characteristics and offered one of the first evolutionary frameworks for species?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Jean-Baptiste Lamarck",
+              "correct": true
+            },
+            {
+              "text": "Georges Cuvier",
+              "correct": false
+            },
+            {
+              "text": "Charles Darwin",
+              "correct": false
+            },
+            {
+              "text": "Alfred Russel Wallace",
+              "correct": false
+            }
+          ],
+          "note": "Well before Darwin, Lamarck (1744–1829) proposed a theory of species transformation, though his ideas differ from modern evolutionary theory."
+        },
+        {
+          "question": "Which French astronomer and mathematician proposed the nebular hypothesis to explain the formation of the Solar System?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Pierre-Simon de Laplace",
+              "correct": true
+            },
+            {
+              "text": "Giordano Bruno",
+              "correct": false
+            },
+            {
+              "text": "Nicolaus Copernicus",
+              "correct": false
+            },
+            {
+              "text": "Galileo",
+              "correct": false
+            }
+          ],
+          "note": "In 'Exposition of the System of the World' (1796), Laplace imagined the Sun and planets forming from a primordial nebula."
+        },
+        {
+          "question": "Which French naturalist, known as the Comte de Buffon, wrote the monumental 'Natural History' in the 18th century?",
+          "difficulty": "hard",
+          "options": [
+            {
+              "text": "Georges-Louis Leclerc, Comte de Buffon",
+              "correct": true
+            },
+            {
+              "text": "Charles Bonnet",
+              "correct": false
+            },
+            {
+              "text": "Michel Adanson",
+              "correct": false
+            },
+            {
+              "text": "René-Antoine Ferchault de Réaumur",
+              "correct": false
+            }
+          ],
+          "note": "Buffon (1707–1788) helped lay the foundations of modern natural history, describing many animal and plant species in detail."
+        },
+        {
+          "question": "Which French engineer and oceanographer, co-inventor of the aqua-lung in 1943 with Émile Gagnan, greatly advanced knowledge of the oceans?",
+          "difficulty": "very_hard",
+          "options": [
+            {
+              "text": "Jacques-Yves Cousteau",
+              "correct": true
+            },
+            {
+              "text": "Auguste Piccard",
+              "correct": false
+            },
+            {
+              "text": "Robert Ballard",
+              "correct": false
+            },
+            {
+              "text": "Hans Hass",
+              "correct": false
+            }
+          ],
+          "note": "Commander Cousteau (1910–1997) popularized underwater exploration through films and founded the Cousteau Society."
+        },
+        {
+          "question": "Which French mathematician and philosopher, author of 'Discourse on the Method', also made major contributions to analytic geometry?",
+          "difficulty": "very_hard",
+          "options": [
+            {
+              "text": "René Descartes",
+              "correct": true
+            },
+            {
+              "text": "Blaise Pascal",
+              "correct": false
+            },
+            {
+              "text": "Gottfried Wilhelm Leibniz",
+              "correct": false
+            },
+            {
+              "text": "Pierre de Fermat",
+              "correct": false
+            }
+          ],
+          "note": "Descartes (1596–1650) pioneered analytic geometry, and his famous 'cogito ergo sum' stands at the foundation of modern philosophy."
+        }
+      ]
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     "legacy": "Father of Europe. His empire laid the foundations for both France and Germany. His educational reforms preserved classical learning.",
     "quote": "Right action is better than knowledge; but in order to do what is right, we must know what is right.",
     "fun-desc": "He could speak Latin and Greek but never learned to write. He kept tablets under his pillow to practice at night.",
-    "image": "/images/charlemagne.jpg"
+    "image": "/images/leaders/charlemagne.jpg"
   },
   {
     "id": "joan-of-arc",
@@ -19,7 +19,7 @@
     "legacy": "Symbol of French unity and nationalism. Canonized as a saint in 1920. Inspired countless works of art and literature.",
     "quote": "I am not afraid; I was born to do this.",
     "fun-desc": "She was only 17 when she convinced the Dauphin to give her command of an army. She dictated letters since she couldn't read or write.",
-    "image": "/images/joan-of-arc.jpg"
+    "image": "/images/leaders/joan-of-arc.jpg"
   },
   {
     "id": "louis-xiv",
@@ -30,7 +30,7 @@
     "legacy": "Established absolute monarchy as a model. French became the language of diplomacy. His court set European cultural standards.",
     "quote": "L'État, c'est moi (I am the State).",
     "fun-desc": "He was only 4 when he became king. He loved ballet and performed 80 roles in 40 ballets, including as Apollo the Sun God.",
-    "image": "/images/louis-xiv.jpg"
+    "image": "/images/leaders/louis-xiv.jpg"
   },
   {
     "id": "napoleon",
@@ -41,7 +41,7 @@
     "legacy": "Spread ideals of the French Revolution across Europe. The Napoleonic Code remains the basis of civil law in many countries.",
     "quote": "Impossible is a word to be found only in the dictionary of fools.",
     "fun-desc": "He wasn't actually short - at 5'7\" he was average height. The myth came from British propaganda and different measurement systems.",
-    "image": "/images/napoleon.jpg"
+    "image": "/images/leaders/napoleon.jpg"
   },
   {
     "id": "de-gaulle",
@@ -52,7 +52,7 @@
     "legacy": "Restored French prestige after WWII. His vision of an independent France shaped modern French foreign policy.",
     "quote": "France has no friends, only interests.",
     "fun-desc": "At 6'5\" he was so tall that armored cars had to be modified for him. He survived over 30 assassination attempts.",
-    "image": "/images/de-gaulle.jpg"
+    "image": "/images/leaders/de-gaulle.jpg"
   },
   {
     "id": "richelieu",
@@ -63,7 +63,7 @@
     "legacy": "Created the modern concept of the nation-state. His policies laid groundwork for absolute monarchy under Louis XIV.",
     "quote": "If you give me six lines written by the hand of the most honest of men, I will find something in them which will hang him.",
     "fun-desc": "He kept 17 cats as pets and wrote plays in his spare time. He also created the first daily newspaper in France.",
-    "image": "/images/richelieu.jpg"
+    "image": "/images/leaders/richelieu.jpg"
   },
   {
     "id": "henri-iv",
@@ -74,7 +74,7 @@
     "legacy": "Remembered as 'Good King Henry.' His religious tolerance was revolutionary for the time. Paris owes much of its beauty to him.",
     "quote": "Paris is well worth a Mass.",
     "fun-desc": "He converted to Catholicism to gain the throne but protected Protestant rights. He was assassinated by a Catholic fanatic.",
-    "image": "/images/henri-iv.jpg"
+    "image": "/images/leaders/henri-iv.jpg"
   },
   {
     "id": "colbert",
@@ -85,7 +85,7 @@
     "legacy": "Made France an economic powerhouse. Created the Gobelins tapestry factory and supported the arts.",
     "quote": "The art of taxation consists in so plucking the goose as to obtain the largest amount of feathers with the least amount of hissing.",
     "fun-desc": "He worked 16-hour days and demanded the same from his staff. He created the first effective French customs service.",
-    "image": "/images/colbert.jpg"
+    "image": "/images/leaders/colbert.jpg"
   },
   {
     "id": "marie-curie",
@@ -96,7 +96,7 @@
     "legacy": "Pioneered research in radioactivity. Her work led to cancer treatment and nuclear energy. Opened doors for women in science.",
     "quote": "Nothing in life is to be feared, it is only to be understood.",
     "fun-desc": "Her papers are still radioactive and kept in lead-lined boxes. You need protective gear to view them.",
-    "image": "/images/marie-curie.jpg"
+    "image": "/images/leaders/marie-curie.jpg"
   },
   {
     "id": "clemenceau",
@@ -107,7 +107,7 @@
     "legacy": "Saved France in its darkest hour. His fierce determination inspired the nation. Controversial legacy due to Versailles Treaty.",
     "quote": "War is too important to be left to the generals.",
     "fun-desc": "He fought a duel with a political rival at age 72. He was shot twice in assassination attempts and survived both.",
-    "image": "/images/clemenceau.jpg"
+    "image": "/images/leaders/clemenceau.jpg"
   },
   {
     "id": "simone-veil",
@@ -118,7 +118,7 @@
     "legacy": "Icon of women's rights in France. First woman buried in the Panthéon for her own achievements.",
     "quote": "We will never forget what we have seen.",
     "fun-desc": "She survived Auschwitz and Bergen-Belsen. Her camp number was tattooed on her arm, which she never hid.",
-    "image": "/images/simone-veil.jpg"
+    "image": "/images/leaders/simone-veil.jpg"
   },
   {
     "id": "arthur-mensch",
@@ -129,7 +129,7 @@
     "legacy": "Represents a new wave of European deep-tech leadership balancing innovation, openness, and geopolitical reality.",
     "quote": "",
     "fun-desc": "A rare hybrid: serious research background + CEO operator energy in a very fast-moving field.",
-    "image": "/images/arthur-mensch.jpg"
+    "image": "/images/leaders/arthur-mensch.jpg"
   },
   {
     "id": "clement-delangue",
@@ -140,7 +140,7 @@
     "legacy": "A flagship example of “ecosystem leadership”: growing capability through open communities, not just closed products.",
     "quote": "",
     "fun-desc": "Often frames AI progress as a community project, not a winner-takes-all race.",
-    "image": "/images/clement-delangue.jpg"
+    "image": "/images/leaders/clement-delangue.jpg"
   },
   {
     "id": "xavier-niel",
@@ -151,7 +151,7 @@
     "legacy": "Embodies ‘challenger strategy’ plus ecosystem building: access, education, capital, and platforms.",
     "quote": "",
     "fun-desc": "Known for contrarian plays and pushing markets to lower prices through aggressive competition.",
-    "image": "/images/xavier-niel.jpg"
+    "image": "/images/leaders/xavier-niel.jpg"
   },
   {
     "id": "esther-duflo",
@@ -162,7 +162,7 @@
     "legacy": "Made evidence-based policy feel operational: test, measure, iterate (very Shizenkan-friendly).",
     "quote": "",
     "fun-desc": "Her work popularized the idea that social policy can be evaluated like engineering: hypotheses and experiments.",
-    "image": "/images/esther-duflo.jpg"
+    "image": "/images/leaders/esther-duflo.jpg"
   },
   {
     "id": "jean-marc-jancovici",
@@ -173,7 +173,7 @@
     "legacy": "A central figure of the ‘energy realism’ school in France: linking physics, economy, and policy in one model.",
     "quote": "",
     "fun-desc": "If Shizenkan had a ‘CLD mascot’ for energy transition, he’d be a strong candidate.",
-    "image": "/images/jean-marc-jancovici.jpg"
+    "image": "/images/leaders/jean-marc-jancovici.jpg"
   },
   {
     "id": "julie-chapon",
@@ -184,7 +184,7 @@
     "legacy": "Shows how information design + behavior nudges can create mass-market health impact.",
     "quote": "",
     "fun-desc": "A simple scan became a system: users, brands, regulation pressure, and health awareness reinforcing each other.",
-    "image": "/images/julie-chapon.jpg"
+    "image": "/images/leaders/julie-chapon.jpg"
   },
   {
     "id": "camille-etienne",
@@ -195,7 +195,7 @@
     "legacy": "Represents the leadership style of the 2020s: narrative power, coalition building, and pressure on institutions.",
     "quote": "",
     "fun-desc": "More strategist than ‘influencer’: her work is about moving institutions, not just opinions.",
-    "image": "/images/camille-etienne.jpg"
+    "image": "/images/leaders/camille-etienne.jpg"
   },
   {
     "id": "philippe-de-villiers",
@@ -206,7 +206,7 @@
     "legacy": "A case study in narrative leadership: culture + operations + volunteer ecosystem turned into a global-scale experience brand.",
     "quote": "",
     "fun-desc": "He started from a ruined château and turned it into a full-blown ‘history engine’ powered by storytelling and logistics.",
-    "image": "/images/philippe-de-villiers.jpg"
+    "image": "/images/leaders/philippe-de-villiers.jpg"
   },
   {
     "id": "eric-larcheveque",
@@ -217,7 +217,7 @@
     "legacy": "Leadership in trust infrastructure: security, product, and risk management in a frontier industry.",
     "quote": "",
     "fun-desc": "His core theme is sovereignty-through-tech: making individuals and organizations less dependent on fragile intermediaries.",
-    "image": "/images/eric-larcheveque.jpg"
+    "image": "/images/leaders/eric-larcheveque.jpg"
   },
   {
     "id": "yann-lecun",
@@ -228,7 +228,7 @@
     "legacy": "Set the direction of modern AI research and pushed for open science and long-horizon ‘world-model’ approaches.",
     "quote": "",
     "fun-desc": "A classic Shizenkan profile: vision-first leader who thinks in systems, constraints, and second-order effects rather than hype cycles.",
-    "image": "/images/yann-lecun.jpg"
+    "image": "/images/leaders/yann-lecun.jpg"
   },
   {
     "id": "octave-klaba",
@@ -239,7 +239,7 @@
     "legacy": "Industrial-scale execution in tech infrastructure: cost discipline, sovereignty, and platform resilience as strategy.",
     "quote": "",
     "fun-desc": "Built a ‘cloud factory’ mindset: infrastructure as a product, not a side-effect.",
-    "image": "/images/octave-klaba.jpg"
+    "image": "/images/leaders/octave-klaba.jpg"
   },
   {
     "id": "valerie-masson-delmotte",
@@ -250,7 +250,7 @@
     "legacy": "Evidence-based leadership under uncertainty: turning complex climate science into decision-relevant knowledge for society.",
     "quote": "",
     "fun-desc": "Her leadership lives in the space where ‘confidence intervals’ meet real-world policy deadlines.",
-    "image": "/images/valerie-masson-delmotte.jpg"
+    "image": "/images/leaders/valerie-masson-delmotte.jpg"
   },
   {
     "id": "emmanuelle-charpentier",
@@ -261,7 +261,7 @@
     "legacy": "A defining modern science leader: breakthrough discovery with huge ethical, medical, and societal implications.",
     "quote": "",
     "fun-desc": "CRISPR is basically a new ‘edit button’ for biology, and she helped write the first clean UI.",
-    "image": "/images/emmanuelle-charpentier.jpg"
+    "image": "/images/leaders/emmanuelle-charpentier.jpg"
   },
   {
     "id": "cedric-villani",
@@ -272,7 +272,7 @@
     "legacy": "Makes advanced ideas socially legible, bridging rigorous thinking with public discourse and education.",
     "quote": "",
     "fun-desc": "Proofs, politics, and poetry in the same coat: he treats ideas like living organisms.",
-    "image": "/images/cedric-villani.jpg"
+    "image": "/images/leaders/cedric-villani.jpg"
   },
   {
     "id": "philippe-starck",
@@ -283,7 +283,7 @@
     "legacy": "Design as leverage: reducing materials while maximizing meaning, usability, and cultural impact.",
     "quote": "",
     "fun-desc": "He treats everyday objects like strategy documents: if the form is wrong, the behavior is wrong.",
-    "image": "/images/philippe-starck.jpg"
+    "image": "/images/leaders/philippe-starck.jpg"
   },
   {
     "id": "roxanne-varza",
@@ -294,6 +294,6 @@
     "legacy": "Ecosystem leadership: turning ‘many small bets’ into an innovation flywheel for a whole country/region.",
     "quote": "",
     "fun-desc": "Her superpower is orchestration: getting thousands of ambitious humans to move like an ecosystem, not a crowd.",
-    "image": "/images/roxanne-varza.jpg"
+    "image": "/images/leaders/roxanne-varza.jpg"
   }
 ]
