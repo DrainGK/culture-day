@@ -210,18 +210,6 @@ export function Navbar() {
             className="lg:hidden overflow-hidden bg-background border-b border-border"
           >
             <div className="px-4 py-4 space-y-2">
-              {/* ✅ mobile language toggle */}
-              <button
-                onClick={toggleLang}
-                className="w-full flex items-center justify-between py-3 px-4 rounded-xl font-medium transition-colors bg-secondary hover:bg-accent"
-                aria-label="Toggle language"
-              >
-                <span className="flex items-center gap-2">
-                  <Languages className="h-5 w-5" />
-                  Language
-                </span>
-                <span className="text-sm">{lang === "en" ? "EN" : "JA"}</span>
-              </button>
 
               {navItems.map((item, index) => (
                 <motion.div
