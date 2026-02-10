@@ -1,0 +1,578 @@
+[
+  {
+    "id": "liberty",
+    "name": "Liberty Leading the People",
+    "artist": "Eugene Delacroix",
+    "year": "1830",
+    "description": "Commemorates the July Revolution of 1830, showing the spirit of French liberty.",
+    "image": "/images/paintings/liberty.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "siege-la-rochelle-richelieu",
+    "name": "The Siege of La Rochelle",
+    "artist": "Henri-Paul Motte",
+    "year": "1881",
+    "description": "Depicts Cardinal Richelieu directing the siege of La Rochelle (1627–1628), a decisive moment in the consolidation of royal power under Louis XIII.",
+    "image": "/images/paintings/siege-la-rochelle-richelieu.png",
+    "category": "painting"
+  },
+  {
+    "id": "death-marat",
+    "name": "The Death of Marat",
+    "artist": "Jacques-Louis David",
+    "year": "1793",
+    "description": "A martyr portrait of the French revolutionary Jean-Paul Marat.",
+    "image": "/images/paintings/death-marat.webp",
+    "category": "painting"
+  },
+  {
+    "id": "oath-horatii",
+    "name": "Oath of the Horatii",
+    "artist": "Jacques-Louis David",
+    "year": "1784",
+    "description": "A neoclassical masterpiece depicting Roman virtue and sacrifice.",
+    "image": "/images/paintings/oath-horatii.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "grande-odalisque",
+    "name": "La Grande Odalisque",
+    "artist": "Jean Auguste Dominique Ingres",
+    "year": "1814",
+    "description": "An orientalist fantasy that challenged classical proportions.",
+    "image": "/images/paintings/grande-odalisque.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "raft-medusa",
+    "name": "The Raft of the Medusa",
+    "artist": "Theodore Gericault",
+    "year": "1819",
+    "description": "A powerful critique of French politics through a shipwreck disaster.",
+    "image": "/images/paintings/raft-medusa.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "starry-night-rhone",
+    "name": "Starry Night Over the Rhone",
+    "artist": "Vincent van Gogh",
+    "year": "1888",
+    "description": "Painted in Arles, France, capturing the night sky over the Rhone river.",
+    "image": "/images/paintings/starry-night-rhone.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "napoleon-crossing-alps",
+    "name": "Napoleon Crossing the Alps",
+    "artist": "Jacques-Louis David",
+    "year": "1801",
+    "description": "Iconic propagandistic portrait of Napoleon leading his army through the Alpine pass toward Italy.",
+    "image": "/images/paintings/napoleon-crossing-alps.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "napoleon-coronation",
+    "name": "The Coronation of Napoleon",
+    "artist": "Jacques-Louis David",
+    "year": "1807",
+    "description": "Monumental depiction of Napoleon’s coronation ceremony at Notre-Dame in Paris, emphasizing imperial grandeur.",
+    "image": "/images/paintings/napoleon-coronation.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "bonaparte-jaffa",
+    "name": "Bonaparte Visiting the Plague Victims of Jaffa",
+    "artist": "Antoine-Jean Gros",
+    "year": "1804",
+    "description": "Dramatic Napoleonic-era painting portraying Bonaparte as fearless and compassionate during the Egyptian campaign.",
+    "image": "/images/paintings/bonaparte-jaffa.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "napoleon-arcole",
+    "name": "Napoleon at the Bridge of Arcole",
+    "artist": "Antoine-Jean Gros",
+    "year": "1796",
+    "description": "Energetic image of Bonaparte carrying the flag during the Italian campaign, turning battle into legend.",
+    "image": "/images/paintings/napoleon-arcole.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "battle-eylau",
+    "name": "Napoleon on the Battlefield of Eylau",
+    "artist": "Antoine-Jean Gros",
+    "year": "1808",
+    "description": "A grand scene blending battlefield horror and imperial mercy after the Battle of Eylau (1807).",
+    "image": "/images/paintings/battle-eylau.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "richelieu-portrait",
+    "name": "Cardinal Richelieu",
+    "artist": "Philippe de Champaigne",
+    "year": "1642",
+    "description": "A defining portrait of the powerful French statesman and cardinal, embodying authority and political discipline.",
+    "image": "/images/paintings/richelieu-portrait.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "cardinal-portrait-triple",
+    "name": "Triple Portrait of Cardinal Richelieu",
+    "artist": "Philippe de Champaigne",
+    "year": "1642",
+    "description": "Richelieu shown from three angles, likely used as a study for sculpture and as a statement of omnipresent power.",
+    "image": "/images/paintings/richelieu-triple-portrait.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "louis-xiv-portrait",
+    "name": "Portrait of Louis XIV",
+    "artist": "Hyacinthe Rigaud",
+    "year": "1701",
+    "description": "The ultimate royal image: Louis XIV in coronation robes, turning monarchy into theater and brand.",
+    "image": "/images/paintings/louis-xiv-rigaud.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "charles-i-portrait",
+    "name": "Equestrian Portrait of Charles I",
+    "artist": "Anthony van Dyck",
+    "year": "1637",
+    "description": "Painted at the French court’s artistic orbit, this influential equestrian portrait helped define royal imagery in Europe.",
+    "image": "/images/paintings/charles-i-portrait.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "madame-recamier",
+    "name": "Portrait of Madame Recamier",
+    "artist": "Jacques-Louis David",
+    "year": "1800",
+    "description": "Elegant salon icon reclining in severe neoclassical calm, capturing the style and politics of post-Revolution Paris.",
+    "image": "/images/paintings/madame-recamier.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "madame-recamier-ingres",
+    "name": "Madame Recamier",
+    "artist": "Jean Auguste Dominique Ingres",
+    "year": "1805",
+    "description": "An alternative vision of the same famous sitter, with cool poise and linear refinement typical of Ingres.",
+    "image": "/images/paintings/madame-recamier-ingres.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "execution-lady-jane",
+    "name": "The Execution of Lady Jane Grey",
+    "artist": "Paul Delaroche",
+    "year": "1833",
+    "description": "French Romantic history painting that popularized tragic royal drama with theatrical lighting and emotion.",
+    "image": "/images/paintings/execution-lady-jane-grey.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "napoleon-fountainbleau",
+    "name": "Napoleon’s Farewell at Fontainebleau",
+    "artist": "Antoine Alphonse Montfort",
+    "year": "1840",
+    "description": "A sentimental retelling of Napoleon’s farewell to the Imperial Guard, feeding 19th-century Napoleonic memory.",
+    "image": "/images/paintings/napoleon-farewell-fontainebleau.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "angelus",
+    "name": "The Angelus",
+    "artist": "Jean-Francois Millet",
+    "year": "1859",
+    "description": "Two peasants pause for prayer at dusk, a rural icon of 19th-century France and the dignity of labor.",
+    "image": "/images/paintings/angelus.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "gleaners",
+    "name": "The Gleaners",
+    "artist": "Jean-Francois Millet",
+    "year": "1857",
+    "description": "A landmark Realist painting showing women collecting leftover grain, quietly political through everyday reality.",
+    "image": "/images/paintings/gleaners.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "luncheon-grass",
+    "name": "Luncheon on the Grass",
+    "artist": "Edouard Manet",
+    "year": "1863",
+    "description": "Scandalous modern scene that shocked the Salon system and helped ignite modern art in France.",
+    "image": "/images/paintings/luncheon-on-the-grass.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "olympia",
+    "name": "Olympia",
+    "artist": "Edouard Manet",
+    "year": "1863",
+    "description": "A confrontational modern nude that challenged academic conventions and forced Paris to argue about art.",
+    "image": "/images/paintings/olympia.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "impression-sunrise",
+    "name": "Impression, Sunrise",
+    "artist": "Claude Monet",
+    "year": "1872",
+    "description": "The painting that gave Impressionism its name, capturing Le Havre’s harbor in flickering atmosphere.",
+    "image": "/images/paintings/impression-sunrise.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "dance-moulin",
+    "name": "Dance at Le Moulin de la Galette",
+    "artist": "Pierre-Auguste Renoir",
+    "year": "1876",
+    "description": "A joyful slice of Parisian life in Montmartre, painted with shimmering light and movement.",
+    "image": "/images/paintings/dance-moulin-galette.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "bar-folies-bergere",
+    "name": "A Bar at the Folies-Bergere",
+    "artist": "Edouard Manet",
+    "year": "1882",
+    "description": "A modern Paris nightlife scene with a mirror puzzle, blending glamour, alienation, and social observation.",
+    "image": "/images/paintings/bar-folies-bergere.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "mont-sainte-victoire",
+    "name": "Mont Sainte-Victoire (series)",
+    "artist": "Paul Cezanne",
+    "year": "1885",
+    "description": "Cezanne’s repeated studies of the Provençal mountain became a bridge from Impressionism to modern structure.",
+    "image": "/images/paintings/mont-sainte-victoire.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "sunday-afternoon-grande-jatte",
+    "name": "A Sunday Afternoon on the Island of La Grande Jatte",
+    "artist": "Georges Seurat",
+    "year": "1886",
+    "description": "Pointillist masterpiece turning leisure into geometry and optical science on the banks of the Seine.",
+    "image": "/images/paintings/grande-jatte.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "moulin-rouge",
+    "name": "At the Moulin Rouge",
+    "artist": "Henri de Toulouse-Lautrec",
+    "year": "1892",
+    "description": "A Belle Epoque nightlife portrait of Paris, capturing the sharp glow and strange psychology of cabaret society.",
+    "image": "/images/paintings/moulin-rouge.jpg",
+    "category": "painting"
+  },
+  {
+    "id": "rameau-hippolyte-aricie",
+    "name": "Hippolyte et Aricie",
+    "artist": "Jean-Philippe Rameau",
+    "year": "1733",
+    "description": "Opera that announced a new level of orchestral color and harmonic daring in French Baroque.",
+    "image": "/images/music/hippolyte-aricie.jpg",
+    "category": "music"
+  },
+  {
+    "id": "berlioz-symphonie-fantastique",
+    "name": "Symphonie fantastique",
+    "artist": "Hector Berlioz",
+    "year": "1830",
+    "description": "Hallucinatory program symphony that turned obsession into orchestral cinema before cinema existed.",
+    "image": "/images/music/symphonie-fantastique.jpg",
+    "category": "music"
+  },
+  {
+    "id": "debussy-prelude-faune",
+    "name": "Prélude à l'après-midi d'un faune",
+    "artist": "Claude Debussy",
+    "year": "1894",
+    "description": "A landmark of musical Impressionism where melody drifts like perfume through warm air.",
+    "image": "/images/music/prelude-faune.jpg",
+    "category": "music"
+  },
+  {
+    "id": "ravel-bolero",
+    "name": "Boléro",
+    "artist": "Maurice Ravel",
+    "year": "1928",
+    "description": "A single rhythm and melody slowly intensify into a glittering mechanical crescendo.",
+    "image": "/images/music/bolero.jpg",
+    "category": "music"
+  },
+  {
+    "id": "satie-gymnopedies",
+    "name": "Gymnopédies",
+    "artist": "Erik Satie",
+    "year": "1888",
+    "description": "Spare piano pieces that feel like soft lamps: simple, strange, and quietly modern.",
+    "image": "/images/music/gymnopedies.jpg",
+    "category": "music"
+  },
+  {
+    "id": "poulenc-gloria",
+    "name": "Gloria",
+    "artist": "Francis Poulenc",
+    "year": "1959",
+    "description": "Sacred choral work balancing brightness and tenderness with sudden, playful turns.",
+    "image": "/images/music/poulenc-gloria.jpg",
+    "category": "music"
+  },
+  {
+    "id": "daft-punk-discovery",
+    "name": "Discovery",
+    "artist": "Daft Punk",
+    "year": "2001",
+    "description": "A sleek pop-electronic universe: hooks, vocoders, and neon nostalgia engineered to last.",
+    "image": "/images/music/daft-punk-discovery.jpg",
+    "category": "music"
+  },
+  {
+    "id": "stromae-racine-carree",
+    "name": "Racine carrée",
+    "artist": "Stromae",
+    "year": "2013",
+    "description": "Sharp pop songwriting where dancefloor energy carries uncomfortable truths.",
+    "image": "/images/music/racine-carree.jpg",
+    "category": "music"
+  },
+  {
+    "id": "hugo-les-miserables",
+    "name": "Les Misérables",
+    "artist": "Victor Hugo",
+    "year": "1862",
+    "description": "Epic novel of justice, poverty, and moral transformation in post-revolutionary France.",
+    "image": "/images/literature/les-miserables.jpg",
+    "category": "literature"
+  },
+  {
+    "id": "dumas-three-musketeers",
+    "name": "Les Trois Mousquetaires",
+    "artist": "Alexandre Dumas",
+    "year": "1844",
+    "description": "Swashbuckling adventure where friendship and politics duel in the same corridor.",
+    "image": "/images/literature/three-musketeers.jpg",
+    "category": "literature"
+  },
+  {
+    "id": "stendhal-red-black",
+    "name": "Le Rouge et le Noir",
+    "artist": "Stendhal",
+    "year": "1830",
+    "description": "Ambition, class, and hypocrisy under a microscope, with a protagonist built for friction.",
+    "image": "/images/literature/red-and-black.webp",
+    "category": "literature"
+  },
+  {
+    "id": "flaubert-madame-bovary",
+    "name": "Madame Bovary",
+    "artist": "Gustave Flaubert",
+    "year": "1857",
+    "description": "A ruthless portrait of desire and boredom, written with surgical precision.",
+    "image": "/images/literature/madame-bovary.jpg",
+    "category": "literature"
+  },
+  {
+    "id": "baudelaire-fleurs-du-mal",
+    "name": "Les Fleurs du mal",
+    "artist": "Charles Baudelaire",
+    "year": "1857",
+    "description": "Poetry that turns modern life into perfume, decay, and electric beauty.",
+    "image": "/images/literature/fleurs-du-mal.jpg",
+    "category": "literature"
+  },
+  {
+    "id": "camus-stranger",
+    "name": "L'Étranger",
+    "artist": "Albert Camus",
+    "year": "1942",
+    "description": "A spare, sunlit novel where meaning slips, and the world refuses to explain itself.",
+    "image": "/images/literature/letranger.jpg",
+    "category": "literature"
+  },
+  {
+    "id": "proust-swann",
+    "name": "Du côté de chez Swann",
+    "artist": "Marcel Proust",
+    "year": "1913",
+    "description": "Memory as architecture: one taste, and an entire world reconstructs itself.",
+    "image": "/images/literature/du-cote-de-chez-swann.jpg",
+    "category": "literature"
+  },
+  {
+    "id": "moliere-tartuffe",
+    "name": "Tartuffe",
+    "artist": "Molière",
+    "year": "1664",
+    "description": "A razor comedy about hypocrisy, piety-as-costume, and domestic power games.",
+    "image": "/images/literature/tartuffe.jpg",
+    "category": "literature"
+  },
+  {
+    "id": "melies-trip-to-moon",
+    "name": "Le Voyage dans la Lune",
+    "artist": "Georges Méliès",
+    "year": "1902",
+    "description": "Pioneering fantasy film that turned cinema into a magician’s stage.",
+    "image": "/images/cinema/voyage-dans-la-lune.webp",
+    "category": "cinema"
+  },
+  {
+    "id": "renoir-grand-illusion",
+    "name": "La Grande Illusion",
+    "artist": "Jean Renoir",
+    "year": "1937",
+    "description": "Humanist war film about class, borders, and fragile solidarity.",
+    "image": "/images/cinema/la-grande-illusion.jpg",
+    "category": "cinema"
+  },
+  {
+    "id": "truffaut-400-blows",
+    "name": "Les Quatre Cents Coups",
+    "artist": "François Truffaut",
+    "year": "1959",
+    "description": "New Wave coming-of-age story where freedom tastes like sea air and trouble.",
+    "image": "/images/cinema/400-blows.jpg",
+    "category": "cinema"
+  },
+  {
+    "id": "godard-breathless",
+    "name": "À bout de souffle",
+    "artist": "Jean-Luc Godard",
+    "year": "1960",
+    "description": "A kinetic New Wave film that breaks rules with a grin and a cigarette.",
+    "image": "/images/cinema/breathless.webp",
+    "category": "cinema"
+  },
+  {
+    "id": "besson-leon",
+    "name": "Léon: The Professional",
+    "artist": "Luc Besson",
+    "year": "1994",
+    "description": "Stylized thriller pairing tenderness and violence in a neon-urban fable.",
+    "image": "/images/cinema/reno.jpg",
+    "category": "cinema"
+  },
+  {
+    "id": "hazanavicius-the-artist",
+    "name": "The Artist",
+    "artist": "Michel Hazanavicius",
+    "year": "2011",
+    "description": "A modern silent film homage to Hollywood’s transition era, made with French precision and charm.",
+    "image": "/images/cinema/the-artist.webp",
+    "category": "cinema"
+  },
+  {
+    "id": "intouchables",
+    "name": "Intouchables",
+    "artist": "Olivier Nakache & Eric Toledano",
+    "year": "2011",
+    "description": "Buddy drama-comedy built on contrast: class, bodies, humor, and unexpected care.",
+    "image": "/images/cinema/intouchables.webp",
+    "category": "cinema"
+  },
+  {
+    "id": "jeunet-amelie",
+    "name": "Le Fabuleux Destin d'Amélie Poulain",
+    "artist": "Jean-Pierre Jeunet",
+    "year": "2001",
+    "description": "A whimsical Paris where small gestures become destiny engines.",
+    "image": "/images/cinema/amelie.webp",
+    "category": "cinema"
+  },
+  {
+    "id": "notre-dame-paris",
+    "name": "Cathédrale Notre-Dame de Paris",
+    "artist": "Collective (medieval builders)",
+    "year": "1163–1345",
+    "description": "Gothic masterpiece: flying buttresses, stained glass, and stone engineering turned into a skyline prayer.",
+    "image": "/images/architecture/notre-dame.jpg",
+    "category": "architecture"
+  },
+  {
+    "id": "opera-garnier",
+    "name": "Palais Garnier (Opéra de Paris)",
+    "artist": "Charles Garnier",
+    "year": "1861–1875",
+    "description": "Haussmann-era Paris in stone and gold: a Second Empire landmark born from the redesign of the city’s grand boulevards.",
+    "image": "/images/architecture/opera-garnier.jpg",
+    "category": "architecture"
+  },
+  {
+    "id": "eiffel-tower",
+    "name": "Eiffel Tower",
+    "artist": "Gustave Eiffel",
+    "year": "1889",
+    "description": "Industrial iron becomes monument: a structure that turned engineering into a national icon.",
+    "image": "/images/architecture/eiffel-tower.jpg",
+    "category": "architecture"
+  },
+  {
+    "id": "castel-beranger",
+    "name": "Castel Béranger",
+    "artist": "Hector Guimard",
+    "year": "1895–1898",
+    "description": "Art Nouveau in Paris: whiplash curves, ironwork, and ornament that makes a building feel alive.",
+    "image": "/images/architecture/castel-beranger.jpg",
+    "category": "architecture"
+  },
+  {
+    "id": "palais-de-chaillot",
+    "name": "Palais de Chaillot",
+    "artist": "Jacques Carlu / Louis-Hippolyte Boileau / Léon Azéma",
+    "year": "1935–1937",
+    "description": "Monumental Art Deco classicism facing the Eiffel Tower, built for the 1937 Paris International Exposition.",
+    "image": "/images/architecture/palais-de-chaillot.jpg",
+    "category": "architecture"
+  },
+  {
+    "id": "rodin-thinker",
+    "name": "Le Penseur",
+    "artist": "Auguste Rodin",
+    "year": "1904 (fonte ; conçue vers 1880)",
+    "description": "Icône absolue de la sculpture moderne : la pensée devient tension du corps, comme si l’idée pesait physiquement.",
+    "image": "/images/sculpture/le-penseur-rodin.jpg",
+    "category": "sculpture"
+  },
+  {
+    "id": "rodin-kiss",
+    "name": "Le Baiser",
+    "artist": "Auguste Rodin",
+    "year": "1882 (version marbre : 1888–1898)",
+    "description": "Amour sculpté à pleine chair : sensualité, douceur, et monumentalité intime à la fois.",
+    "image": "/images/sculpture/le-baiser-rodin.webp",
+    "category": "sculpture"
+  },
+  {
+    "id": "rodin-burghers-calais",
+    "name": "Les Bourgeois de Calais",
+    "artist": "Auguste Rodin",
+    "year": "1889 (modèle ; fontes ultérieures)",
+    "description": "Héroïsme sans posture : un groupe de figures saisies dans la gravité, l’hésitation, et le courage nu.",
+    "image": "/images/sculpture/bourgeois-de-calais-rodin.jpg",
+    "category": "sculpture"
+  },
+  {
+    "id": "claudel-la-valse",
+    "name": "La Valse",
+    "artist": "Camille Claudel",
+    "year": "1893 (versions ultérieures)",
+    "description": "Deux corps pris dans un tourbillon : une danse qui ressemble à une tempête douce, tragique et élégante.",
+    "image": "/images/sculpture/la-valse-claudel.jpg",
+    "category": "sculpture"
+  },
+  {
+    "id": "rude-la-marseillaise",
+    "name": "Le Départ des volontaires de 1792 (La Marseillaise)",
+    "artist": "François Rude",
+    "year": "1833–1836",
+    "description": "Relief monumental de l’Arc de Triomphe : l’énergie nationale sculptée comme un cri de pierre.",
+    "image": "/images/sculpture/la-marseillaise-rude.jpg",
+    "category": "sculpture"
+  }
+]
